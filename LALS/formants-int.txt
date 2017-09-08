@@ -1,0 +1,1 @@
+speaker	phone	vowel	duration	ceiling	variance	F1	F2	F3	F1Bk	F2Bk	F3Bk	start	word	filename	status

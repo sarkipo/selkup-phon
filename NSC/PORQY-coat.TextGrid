@@ -1,0 +1,92 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 3.0882539682539685 
+tiers? <exists> 
+size = 2 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "Words" 
+        xmin = 0 
+        xmax = 3.0882539682539685 
+        intervals: size = 5 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21667978412675692 
+            text = "" 
+        intervals [2]:
+            xmin = 0.21667978412675692 
+            xmax = 0.963308231168521 
+            text = "porqy" 
+        intervals [3]:
+            xmin = 0.963308231168521 
+            xmax = 1.9930736996858631 
+            text = "" 
+        intervals [4]:
+            xmin = 1.9930736996858631 
+            xmax = 2.74552003073055 
+            text = "porqy" 
+        intervals [5]:
+            xmin = 2.74552003073055 
+            xmax = 3.0882539682539685 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "Phones" 
+        xmin = 0 
+        xmax = 3.0882539682539685 
+        intervals: size = 13 
+        intervals [1]:
+            xmin = 0 
+            xmax = 0.21667978412675692 
+            text = "" 
+        intervals [2]:
+            xmin = 0.21667978412675692 
+            xmax = 0.32334099084700896 
+            text = "p" 
+        intervals [3]:
+            xmin = 0.32334099084700896 
+            xmax = 0.45521302824659327 
+            text = "o" 
+        intervals [4]:
+            xmin = 0.45521302824659327 
+            xmax = 0.6375067270048421 
+            text = "r" 
+        intervals [5]:
+            xmin = 0.6375067270048421 
+            xmax = 0.8023467737543225 
+            text = "q" 
+        intervals [6]:
+            xmin = 0.8023467737543225 
+            xmax = 0.963308231168521 
+            text = "y" 
+        intervals [7]:
+            xmin = 0.963308231168521 
+            xmax = 1.9930736996858631 
+            text = "" 
+        intervals [8]:
+            xmin = 1.9930736996858631 
+            xmax = 2.1152492637472426 
+            text = "p" 
+        intervals [9]:
+            xmin = 2.1152492637472426 
+            xmax = 2.2587570691526726 
+            text = "o" 
+        intervals [10]:
+            xmin = 2.2587570691526726 
+            xmax = 2.4061434638933847 
+            text = "r" 
+        intervals [11]:
+            xmin = 2.4061434638933847 
+            xmax = 2.5399547959606097 
+            text = "q" 
+        intervals [12]:
+            xmin = 2.5399547959606097 
+            xmax = 2.6834626013660396 
+            text = "y" 
+        intervals [13]:
+            xmin = 2.6834626013660396 
+            xmax = 3.0882539682539685 
+            text = "" 

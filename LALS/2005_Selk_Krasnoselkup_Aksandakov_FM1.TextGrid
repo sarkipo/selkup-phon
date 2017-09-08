@@ -1,0 +1,524 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 168.912
+tiers? <exists>
+size = 2
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "<fon>"
+        xmin = 0.0
+        xmax = 168.912
+        intervals: size = 63
+        intervals [1]
+            xmin = 0.0
+            xmax = 1.14
+            text = ""
+        intervals [2]
+            xmin = 1.14
+            xmax = 5.0
+            text = "ily-mp-ɔ̄qįj qäl-ira šöľqum-ira-n=əptį-sä"
+        intervals [3]
+            xmin = 5.0
+            xmax = 6.35
+            text = ""
+        intervals [4]
+            xmin = 6.35
+            xmax = 9.36
+            text = "ily-mp-ɔ̄j somak ńänty aš tōty-mp-ɔ̄j"
+        intervals [5]
+            xmin = 9.36
+            xmax = 13.919
+            text = ""
+        intervals [6]
+            xmin = 13.919
+            xmax = 19.316
+            text = "nu ukkyr tō ǖtyt ɔ̄mt-∅-ɔ̄qį"
+        intervals [7]
+            xmin = 19.316
+            xmax = 19.409
+            text = ""
+        intervals [8]
+            xmin = 19.409
+            xmax = 21.011
+            text = "qäl-ira nįľ ɛj kəty-ŋ-yt"
+        intervals [9]
+            xmin = 21.011
+            xmax = 22.613
+            text = "naššaŋ na puršy-mɔ̄t-t-ak"
+        intervals [10]
+            xmin = 22.613
+            xmax = 22.894
+            text = ""
+        intervals [11]
+            xmin = 22.894
+            xmax = 33.122
+            text = "ksə ɔ̄tä-t ūpyl kočyń šitt näqä-l-ɛj"
+        intervals [12]
+            xmin = 33.122
+            xmax = 35.28
+            text = ""
+        intervals [13]
+            xmin = 35.28
+            xmax = 39.631
+            text = "kuty-ľ ńe-my-j pɛläš pɛläŋ miššal-ɛnty-ŋ-yt"
+        intervals [14]
+            xmin = 39.631
+            xmax = 41.543
+            text = ""
+        intervals [15]
+            xmin = 41.543
+            xmax = 45.0
+            text = "na qumy-t-kįnįŋ ɔ̄tä-n munDyŋ ɛj qən-t-ɔ̄tyt"
+        intervals [16]
+            xmin = 45.0
+            xmax = 47.017
+            text = ""
+        intervals [17]
+            xmin = 47.017
+            xmax = 49.315
+            text = "a ɔ̄tä-ī-m-tį̄ mol{1} ɛj wəry-mp-atį̄"
+        intervals [18]
+            xmin = 49.315
+            xmax = 52.35
+            text = ""
+        intervals [19]
+            xmin = 52.35
+            xmax = 57.982
+            text = "nu šöľqum-ira nįľ kəty-ŋ-yty"
+        intervals [20]
+            xmin = 57.982
+            xmax = 59.192
+            text = ""
+        intervals [21]
+            xmin = 59.192
+            xmax = 62.017
+            text = "a ksa kut ɛj kočyń-yl "
+        intervals [22]
+            xmin = 62.017
+            xmax = 63.07
+            text = ""
+        intervals [23]
+            xmin = 63.07
+            xmax = 68.649
+            text = "qäl-ira kočyń tə ūpyl kočyń-laka-p karräny ī-nt-yt"
+        intervals [24]
+            xmin = 68.649
+            xmax = 69.017
+            text = ""
+        intervals [25]
+            xmin = 69.017
+            xmax = 71.087
+            text = "wərqy pɛläŋ-myn-ty na orqyl-t-yt"
+        intervals [26]
+            xmin = 71.087
+            xmax = 71.807
+            text = ""
+        intervals [27]
+            xmin = 71.807
+            xmax = 74.561
+            text = "a šöľqum-ira kypa pɛläŋ-myn-ty"
+        intervals [28]
+            xmin = 74.561
+            xmax = 75.456
+            text = ""
+        intervals [29]
+            xmin = 75.456
+            xmax = 77.824
+            text = "nyny šitty na näkä-q-olam-my-nt-į̄{1}"
+        intervals [30]
+            xmin = 77.824
+            xmax = 78.947
+            text = ""
+        intervals [31]
+            xmin = 78.947
+            xmax = 82.105
+            text = "naššaŋ näkä-ŋ-yty naššaŋ näkä-ŋ-yty qäl-ira"
+        intervals [32]
+            xmin = 82.105
+            xmax = 82.631
+            text = ""
+        intervals [33]
+            xmin = 82.631
+            xmax = 87.701
+            text = "qapį wərqy kočyń-myn-ty wərqy pɛläŋ-myn-ty orqyl-p-at kočyń-laka kočyń-ty"
+        intervals [34]
+            xmin = 87.701
+            xmax = 90.28
+            text = ""
+        intervals [35]
+            xmin = 90.28
+            xmax = 94.543
+            text = "miššal-n-yt nyny  tįna šöľqum-ira-n uty-n nɔ̄n  tō"
+        intervals [36]
+            xmin = 94.543
+            xmax = 98.736
+            text = ""
+        intervals [37]
+            xmin = 98.736
+            xmax = 99.894
+            text = "nyny čo"
+        intervals [38]
+            xmin = 99.894
+            xmax = 101.578
+            text = ""
+        intervals [39]
+            xmin = 101.578
+            xmax = 107.105
+            text = "qäl-ira-t-kįn ɛ ɔ̄tä-ty munDyk qäl-ira-t-kįn qən-n-y"
+        intervals [40]
+            xmin = 107.105
+            xmax = 108.842
+            text = ""
+        intervals [41]
+            xmin = 108.842
+            xmax = 112.35
+            text = "tɔ̄ptyľ čēly qäl-ira ɔ̄tä-ī-m-ty taqqyl-lä kərty-q-olam-n-a2"
+        intervals [42]
+            xmin = 112.35
+            xmax = 114.087
+            text = ""
+        intervals [43]
+            xmin = 114.087
+            xmax = 116.508
+            text = "ɔ̄tä-ī-m-ty toqqy-lä qən-n-a"
+        intervals [44]
+            xmin = 116.508
+            xmax = 117.333
+            text = ""
+        intervals [45]
+            xmin = 117.333
+            xmax = 120.912
+            text = "a šöľqum-ira-t-kįnyk kypə̄ ɔ̄tä-līp qəčy-mmy-nt-y3"
+        intervals [46]
+            xmin = 120.912
+            xmax = 121.0
+            text = ""
+        intervals [47]
+            xmin = 121.0
+            xmax = 122.403
+            text = "qapį amna-n  aša qu-qo-ntō"
+        intervals [48]
+            xmin = 122.403
+            xmax = 123.263
+            text = ""
+        intervals [49]
+            xmin = 123.263
+            xmax = 127.052
+            text = "vsʼo-taki namynmanty  pō-n-ty  kunty ukkuršaŋ  ily-s-ɔ̄j "
+        intervals [50]
+            xmin = 127.052
+            xmax = 133.754
+            text = ""
+        intervals [51]
+            xmin = 133.754
+            xmax = 138.105
+            text = "nyny ńɛnnä qapį qäl-ira ɔ̄tä-sä ɛs-∅-a"
+        intervals [52]
+            xmin = 138.105
+            xmax = 138.28
+            text = ""
+        intervals [53]
+            xmin = 138.28
+            xmax = 144.21
+            text = "a  šöľqup ɔ̄tä-ty qɔ̄ny qɔ̄ny  ɛ̄-ŋ-a  qapį"
+        intervals [54]
+            xmin = 144.21
+            xmax = 146.228
+            text = ""
+        intervals [55]
+            xmin = 146.228
+            xmax = 148.964
+            text = "my eta ľeg'enda govor'it o=čom"
+        intervals [56]
+            xmin = 148.964
+            xmax = 152.596
+            text = ""
+        intervals [57]
+            xmin = 152.596
+            xmax = 153.964
+            text = "do s'ix por vot tak"
+        intervals [58]
+            xmin = 153.964
+            xmax = 156.21
+            text = "u=s'eľkupa oľeńej malo"
+        intervals [59]
+            xmin = 156.21
+            xmax = 156.877
+            text = ""
+        intervals [60]
+            xmin = 156.877
+            xmax = 159.947
+            text = "a ńeńec oleńam'i očeń bogatyj"
+        intervals [61]
+            xmin = 159.947
+            xmax = 162.649
+            text = ""
+        intervals [62]
+            xmin = 162.649
+            xmax = 167.473
+            text = "i vs'o iz=za etoj kostočk'i iz=za etovo sustava"
+        intervals [63]
+            xmin = 167.473
+            xmax = 168.912
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "<gl>"
+        xmin = 0.0
+        xmax = 168.912
+        intervals: size = 63
+        intervals [1]
+            xmin = 0.0
+            xmax = 1.14
+            text = ""
+        intervals [2]
+            xmin = 1.14
+            xmax = 5.0
+            text = "жить-PSTN-3DU.SUB ненец-мужчина.SG.NOM селькуп-мужчина.SG-GEN=с-COM"
+        intervals [3]
+            xmin = 5.0
+            xmax = 6.35
+            text = ""
+        intervals [4]
+            xmin = 6.35
+            xmax = 9.36
+            text = "жить-PSTN-3.DU.SUB хорошо вместе NEG ругаться-PSTN-3.DU.SUB"
+        intervals [5]
+            xmin = 9.36
+            xmax = 13.919
+            text = ""
+        intervals [6]
+            xmin = 13.919
+            xmax = 19.316
+            text = "ну один там вечером сидеть-PRS-3.DU.SUB"
+        intervals [7]
+            xmin = 19.316
+            xmax = 19.409
+            text = ""
+        intervals [8]
+            xmin = 19.409
+            xmax = 21.011
+            text = "ненец-мужчина.SG.NOM так еще/и сказать-PRS-3.SG.OB"
+        intervals [9]
+            xmin = 21.011
+            xmax = 22.613
+            text = "так это скучать-PFV.DECS-LTN.PRS-1.SG.SUB"
+        intervals [10]
+            xmin = 22.613
+            xmax = 22.894
+            text = ""
+        intervals [11]
+            xmin = 22.894
+            xmax = 33.122
+            text = "давай олень.SG-GEN свободный сустав.SG.NOM в.разные.стороны тянуть-OPT-1.DU.OB"
+        intervals [12]
+            xmin = 33.122
+            xmax = 35.28
+            text = ""
+        intervals [13]
+            xmin = 35.28
+            xmax = 39.631
+            text = "кто-ADJ существо-NMIz-ADJ сторона.SLIP сторона.SG.NOM выдернуть-IPFV-PRS-3.SG.OB"
+        intervals [14]
+            xmin = 39.631
+            xmax = 41.543
+            text = ""
+        intervals [15]
+            xmin = 41.543
+            xmax = 45.0
+            text = "этот человек.SG-GEN-DAT/ALL олень-PL.NOM все еще/и уйти-FUT-3.PL.SUB/OB"
+        intervals [16]
+            xmin = 45.0
+            xmax = 47.017
+            text = ""
+        intervals [17]
+            xmin = 47.017
+            xmax = 49.315
+            text = "а олень-PL-ACC-POSS.3.DU говорят"
+        intervals [18]
+            xmin = 49.315
+            xmax = 52.35
+            text = ""
+        intervals [19]
+            xmin = 52.35
+            xmax = 57.982
+            text = "ну селькуп-мужчина.SG.NOM так сказать-PRS-3.SG.OB"
+        intervals [20]
+            xmin = 57.982
+            xmax = 59.192
+            text = ""
+        intervals [21]
+            xmin = 59.192
+            xmax = 62.017
+            text = "а ну.ка где еще/и сустав.SG.NOM-POSS.2.SG"
+        intervals [22]
+            xmin = 62.017
+            xmax = 63.07
+            text = ""
+        intervals [23]
+            xmin = 63.07
+            xmax = 68.649
+            text = "ненец-мужчина.SG.NOM Cустав.NOM.SG HES свободный сустав-SNG.SG.ACC с.очага/C.берега взять-LTN.PRS-3.SG.OB"
+        intervals [24]
+            xmin = 68.649
+            xmax = 69.017
+            text = ""
+        intervals [25]
+            xmin = 69.017
+            xmax = 71.087
+            text = "большой сторона.SG-PROL-POSS.3.SG вот схватить-LTN.PRS-3.SG.OB"
+        intervals [26]
+            xmin = 71.087
+            xmax = 71.807
+            text = ""
+        intervals [27]
+            xmin = 71.807
+            xmax = 74.561
+            text = "а селькуп-мужчина.NM.SG маленький сторона.SG-PROL-POSS.3.SG"
+        intervals [28]
+            xmin = 74.561
+            xmax = 75.456
+            text = ""
+        intervals [29]
+            xmin = 75.456
+            xmax = 77.824
+            text = "потом в.разные.стороны вот тянуть-INF-AUX.INCH-PSTN-LTN-1.DU.SUB/OB"
+        intervals [30]
+            xmin = 77.824
+            xmax = 78.947
+            text = ""
+        intervals [31]
+            xmin = 78.947
+            xmax = 82.105
+            text = "так тянуть-PRS-3.SG.OB так тянуть-PRS-3.SG.OB ненец-мужчина.SG.NOM"
+        intervals [32]
+            xmin = 82.105
+            xmax = 82.631
+            text = ""
+        intervals [33]
+            xmin = 82.631
+            xmax = 87.701
+            text = "вроде большой сустав.SG-PROL-POSS.3.SG большой сторона.SG-PROL-POSS.3.SG схватить-PSTN-3.SG.OB сустав-SNG.SG.NOM сустав.SG.NOM-POSS.3.SG"
+        intervals [34]
+            xmin = 87.701
+            xmax = 90.28
+            text = ""
+        intervals [35]
+            xmin = 90.28
+            xmax = 94.543
+            text = "дернуть-PRS-3.SG.OB потом этот.самый селькуп-мужчина.SG-GEN рука.SG-GEN из прочь"
+        intervals [36]
+            xmin = 94.543
+            xmax = 98.736
+            text = ""
+        intervals [37]
+            xmin = 98.736
+            xmax = 99.894
+            text = "потом что"
+        intervals [38]
+            xmin = 99.894
+            xmax = 101.578
+            text = ""
+        intervals [39]
+            xmin = 101.578
+            xmax = 107.105
+            text = "ненец-мужчина.SG-GEN-DAT/ALL HES олень.SG.NM-POSS.3.SG всё ненец-мужчина.SG-GEN-DAT/ALL уйти-LTN.PRS-3.SG.SUB"
+        intervals [40]
+            xmin = 107.105
+            xmax = 108.842
+            text = ""
+        intervals [41]
+            xmin = 108.842
+            xmax = 112.35
+            text = "следующий день.NOM.SG ненец-мужчина.SG.NOM олень-PL-ACC-POSS.3.SG погнать-CVB кочевать-INF-AUX.INCH-PRS-3.SG.SUB"
+        intervals [42]
+            xmin = 112.35
+            xmax = 114.087
+            text = ""
+        intervals [43]
+            xmin = 114.087
+            xmax = 116.508
+            text = "олень-PL-ACC-POSS.3.SG погнать-CVB уйти-PRS-3.SG.SUB"
+        intervals [44]
+            xmin = 116.508
+            xmax = 117.333
+            text = ""
+        intervals [45]
+            xmin = 117.333
+            xmax = 120.912
+            text = "а селькуп-мужчина.SG-GEN-DAT/ALL мале-е-енько олень-PEJ.SG.NOM оставить-PSTN-LTN-3SG.SUB"
+        intervals [46]
+            xmin = 120.912
+            xmax = 121.0
+            text = ""
+        intervals [47]
+            xmin = 121.0
+            xmax = 122.403
+            text = "вроде голод.SG-GEN NEG умереть-INF-POSS.2/3.SG"
+        intervals [48]
+            xmin = 122.403
+            xmax = 123.263
+            text = ""
+        intervals [49]
+            xmin = 123.263
+            xmax = 127.052
+            text = "все-таки в.такой.степени год.SG-GEN-POSS.3.SG в.течение вместе жить-PST-3.DU.SUB"
+        intervals [50]
+            xmin = 127.052
+            xmax = 133.754
+            text = ""
+        intervals [51]
+            xmin = 133.754
+            xmax = 138.105
+            text = "потом вперед вроде ненец-мужчина.SG.NOM олень.SG-COM стать-PRS-3.SG.SUB"
+        intervals [52]
+            xmin = 138.105
+            xmax = 138.28
+            text = ""
+        intervals [53]
+            xmin = 138.28
+            xmax = 144.21
+            text = "а селькуп.SG.NOM олень.SG.NOM-POSS.3.SG мало мало быть-PRS-3.SG.SUB вроде"
+        intervals [54]
+            xmin = 144.21
+            xmax = 146.228
+            text = ""
+        intervals [55]
+            xmin = 146.228
+            xmax = 148.964
+            text = "это эта легенда говорит о=чем"
+        intervals [56]
+            xmin = 148.964
+            xmax = 152.596
+            text = ""
+        intervals [57]
+            xmin = 152.596
+            xmax = 153.964
+            text = "до сих пор вот так"
+        intervals [58]
+            xmin = 153.964
+            xmax = 156.21
+            text = "у.селькупа оленей мало"
+        intervals [59]
+            xmin = 156.21
+            xmax = 156.877
+            text = ""
+        intervals [60]
+            xmin = 156.877
+            xmax = 159.947
+            text = "а ненец оленями очень богатый"
+        intervals [61]
+            xmin = 159.947
+            xmax = 162.649
+            text = ""
+        intervals [62]
+            xmin = 162.649
+            xmax = 167.473
+            text = "и все из=за этой косточки из=за этого сустава"
+        intervals [63]
+            xmin = 167.473
+            xmax = 168.912
+            text = ""

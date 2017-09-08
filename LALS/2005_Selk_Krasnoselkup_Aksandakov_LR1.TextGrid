@@ -1,0 +1,1358 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0.0
+xmax = 287.805
+tiers? <exists>
+size = 3
+item []:
+    item[1]:
+        class = "IntervalTier"
+        name = "<fon>"
+        xmin = 0.0
+        xmax = 287.805
+        intervals: size = 111
+        intervals [1]
+            xmin = 0.0
+            xmax = 0.495
+            text = ""
+        intervals [2]
+            xmin = 0.495
+            xmax = 11.141
+            text = "tam üttyt našľi ľisju noru a loqa-t pity-l-laka{1} qo-s-ymyn."
+        intervals [3]
+            xmin = 11.141
+            xmax = 15.075
+            text = ""
+        intervals [4]
+            xmin = 15.075
+            xmax = 24.318
+            text = "nȳ qən qən-q-olap-s-ymyn nɛjɛ kypy-ľa loqa-ľa-t-yp orqal-qo"
+        intervals [5]
+            xmin = 24.318
+            xmax = 26.734
+            text = ""
+        intervals [6]
+            xmin = 26.734
+            xmax = 28.318
+            text = "loqa-t pito-nty tǖ-s-ymyt."
+        intervals [7]
+            xmin = 28.318
+            xmax = 29.699
+            text = ""
+        intervals [8]
+            xmin = 29.699
+            xmax = 32.619
+            text = "man mɔ̄t-ty manny-mp-ak ńi wətty-ty ńi qaj-ty čǟŋk-Ø-a."
+        intervals [9]
+            xmin = 32.619
+            xmax = 34.132
+            text = ""
+        intervals [10]
+            xmin = 34.132
+            xmax = 35.353
+            text = "kypa ńe-my nyny nįľ tom-n-a."
+        intervals [11]
+            xmin = 35.353
+            xmax = 36.874
+            text = ""
+        intervals [12]
+            xmin = 36.874
+            xmax = 39.658
+            text = "qen-p-a uže pity-qonty čǟŋk-Ø-a."
+        intervals [13]
+            xmin = 39.658
+            xmax = 41.144
+            text = ""
+        intervals [14]
+            xmin = 41.144
+            xmax = 47.187
+            text = "a təp šettyr-qyt{1} tür-p-a pɛly-kɔ̄l kypa ńe-my."
+        intervals [15]
+            xmin = 47.187
+            xmax = 51.124
+            text = ""
+        intervals [16]
+            xmin = 51.124
+            xmax = 53.086
+            text = "ńi pica-m myta ńi qaj-ap čǟŋk-Ø-a."
+        intervals [17]
+            xmin = 53.086
+            xmax = 53.425
+            text = ""
+        intervals [18]
+            xmin = 53.425
+            xmax = 56.485
+            text = "na loqa-t pity-ľa-t qana-qyn tytyŋ matqy-mma-nt-y{1}"
+        intervals [19]
+            xmin = 56.485
+            xmax = 57.288
+            text = ""
+        intervals [20]
+            xmin = 57.288
+            xmax = 59.673
+            text = "na tytyk-ty tü-sä čatt-ɛ̄j-mp-am."
+        intervals [21]
+            xmin = 59.673
+            xmax = 60.249
+            text = ""
+        intervals [22]
+            xmin = 60.249
+            xmax = 62.124
+            text = "tɛnyr-p-Ø-ɔ̄myn."
+        intervals [23]
+            xmin = 62.124
+            xmax = 63.812
+            text = ""
+        intervals [24]
+            xmin = 63.812
+            xmax = 66.504
+            text = "purqy-m orqyl-tɛnty-ŋ-yty on-ty ponä putyl-mɔ̄t-t-y."
+        intervals [25]
+            xmin = 66.504
+            xmax = 72.403
+            text = ""
+        intervals [26]
+            xmin = 72.403
+            xmax = 74.629
+            text = "nyny tōnDy a tɛ̄tty-myn ɛj ɛ̄-s-ymyn."
+        intervals [27]
+            xmin = 74.629
+            xmax = 76.636
+            text = ""
+        intervals [28]
+            xmin = 76.636
+            xmax = 79.269
+            text = "kunɛlɔ̄ šitty qumɔ̄-qį-m kunɛlɔ̄ qäly-mp-Ø-ɔ̄qį."
+        intervals [29]
+            xmin = 79.269
+            xmax = 83.836
+            text = ""
+        intervals [30]
+            xmin = 83.836
+            xmax = 94.442
+            text = "slavka  iľi ā paramej šoka-ľa-ty šoka-ľa iľi kut-qos mūty-nt-y."
+        intervals [31]
+            xmin = 94.442
+            xmax = 97.106
+            text = ""
+        intervals [32]
+            xmin = 97.106
+            xmax = 100.211
+            text = "ola-m įnnä wəččy-lä säqqo-nty sajy-t kury-sä nȳ qätt-alt-Ø-ap."
+        intervals [33]
+            xmin = 100.211
+            xmax = 100.236
+            text = ""
+        intervals [34]
+            xmin = 100.236
+            xmax = 101.236
+            text = "qos-qaj lańky-mɔ̄t-t-y."
+        intervals [35]
+            xmin = 101.236
+            xmax = 102.328
+            text = ""
+        intervals [36]
+            xmin = 102.328
+            xmax = 103.808
+            text = "i slavka tōnty qäll-ɛ̄j-mp-a."
+        intervals [37]
+            xmin = 103.808
+            xmax = 104.836
+            text = ""
+        intervals [38]
+            xmin = 104.836
+            xmax = 111.935
+            text = "qorqy-l-laka{1} nu soma-ŋ aš šįm na qo-nt-Ø-a čāryp tyty-t tɔ̄py."
+        intervals [39]
+            xmin = 111.935
+            xmax = 113.336
+            text = ""
+        intervals [40]
+            xmin = 113.336
+            xmax = 117.766
+            text = "tyty-t tɔ̄pō-qyt mäkkä čəssä pīqyl-py-lä qorqy-l-laka2 nyŋy-nt-y."
+        intervals [41]
+            xmin = 117.766
+            xmax = 119.406
+            text = ""
+        intervals [42]
+            xmin = 119.406
+            xmax = 121.155
+            text = "a paramejy-t-kįnįŋ aša ata."
+        intervals [43]
+            xmin = 121.155
+            xmax = 122.166
+            text = ""
+        intervals [44]
+            xmin = 122.166
+            xmax = 122.766
+            text = "nįľ tɛnD-Ø-ap."
+        intervals [45]
+            xmin = 122.766
+            xmax = 123.766
+            text = "puška-l tȳ tį̄ ī-ty."
+        intervals [46]
+            xmin = 123.766
+            xmax = 126.566
+            text = ""
+        intervals [47]
+            xmin = 126.566
+            xmax = 129.658
+            text = "a tɛ̄sary-ľ metra-š-šaŋ{1} ɛ̄-ŋ-a namyšša-ľ namyšša-ľ my-qyt."
+        intervals [48]
+            xmin = 129.658
+            xmax = 130.389
+            text = ""
+        intervals [49]
+            xmin = 130.389
+            xmax = 131.143
+            text = "nįľ tɛnyr-p-Ø-ak."
+        intervals [50]
+            xmin = 131.143
+            xmax = 131.383
+            text = ""
+        intervals [51]
+            xmin = 131.383
+            xmax = 132.383
+            text = "čatt-ɛnt-ap soma-k."
+        intervals [52]
+            xmin = 132.383
+            xmax = 137.756
+            text = ""
+        intervals [53]
+            xmin = 137.756
+            xmax = 140.682
+            text = "nyny kuššat pakty-ptǟ-qynty kypa ńe-my qo-ľcy-nt-yty."
+        intervals [54]
+            xmin = 140.682
+            xmax = 142.426
+            text = ""
+        intervals [55]
+            xmin = 142.426
+            xmax = 143.426
+            text = "sūryp-ty mitqylD-ɛ̄j-ŋ-yty."
+        intervals [56]
+            xmin = 143.426
+            xmax = 145.736
+            text = ""
+        intervals [57]
+            xmin = 145.736
+            xmax = 147.958
+            text = "aš kunDyk na ɛ̄-nD-y puškat pass-ɛ̄j-nt-y."
+        intervals [58]
+            xmin = 147.958
+            xmax = 149.886
+            text = ""
+        intervals [59]
+            xmin = 149.886
+            xmax = 152.718
+            text = "a mē nɔ̄qyr-myt mat pičy wəččy-mmy-nt-am{1}"
+        intervals [60]
+            xmin = 152.718
+            xmax = 155.436
+            text = ""
+        intervals [61]
+            xmin = 155.436
+            xmax = 165.335
+            text = "uk ukkyr ńe-myn lapa lapa-l-laka{1} qapį ī-s-yty loqa-t pity-l-laka{2} šįqyl-tɛnt-yty."
+        intervals [62]
+            xmin = 165.335
+            xmax = 166.335
+            text = ""
+        intervals [63]
+            xmin = 166.335
+            xmax = 173.94
+            text = "a ukkur ńe-myn ɛj poqo-l-laka wəččy-mmy-nt-y loq loqa-t pity-n ɔ̄-p taqyl-tɛnt-yty."
+        intervals [64]
+            xmin = 173.94
+            xmax = 178.556
+            text = ""
+        intervals [65]
+            xmin = 178.556
+            xmax = 181.467
+            text = "aš na kunDyŋ ɛ̄-nt-a puškat pass-ɛ̄j-nt-y."
+        intervals [66]
+            xmin = 181.467
+            xmax = 184.216
+            text = ""
+        intervals [67]
+            xmin = 184.216
+            xmax = 185.216
+            text = "konnä qäll-ɛ̄j-mp-Ø-ɔ̄myn."
+        intervals [68]
+            xmin = 185.216
+            xmax = 187.416
+            text = ""
+        intervals [69]
+            xmin = 187.416
+            xmax = 189.634
+            text = "tȳ na tü-nD-ɔ̄myn kypa ńe-my wərk-any."
+        intervals [70]
+            xmin = 189.634
+            xmax = 190.116
+            text = ""
+        intervals [71]
+            xmin = 190.116
+            xmax = 191.116
+            text = "sūru-l qatt-į̄j-s-y ?"
+        intervals [72]
+            xmin = 191.116
+            xmax = 192.366
+            text = ""
+        intervals [73]
+            xmin = 192.366
+            xmax = 193.52
+            text = "čatty-Z-am myta."
+        intervals [74]
+            xmin = 193.52
+            xmax = 194.256
+            text = ""
+        intervals [75]
+            xmin = 194.256
+            xmax = 196.862
+            text = "šitty pɔ̄r myta kompyl-mɔ̄s-s-a{1} aľčy-s-y ipp-Ø-a."
+        intervals [76]
+            xmin = 196.862
+            xmax = 200.716
+            text = ""
+        intervals [77]
+            xmin = 200.716
+            xmax = 203.329
+            text = "nyny qönty-qos sukultä čam na manD-ɛ̄j-nt-ak."
+        intervals [78]
+            xmin = 203.329
+            xmax = 203.506
+            text = ""
+        intervals [79]
+            xmin = 203.506
+            xmax = 205.604
+            text = "tįna sūrym įnnä pakty-lä ńɛnnä pakt-Ø-y."
+        intervals [80]
+            xmin = 205.604
+            xmax = 208.896
+            text = ""
+        intervals [81]
+            xmin = 208.896
+            xmax = 210.329
+            text = "tō-lɔ̄ mitqylty-mpy-s-am myta..."
+        intervals [82]
+            xmin = 210.329
+            xmax = 210.626
+            text = ""
+        intervals [83]
+            xmin = 210.626
+            xmax = 213.143
+            text = "šoka-ľa-m myta ńō-lä mēlty qənty-s-yty."
+        intervals [84]
+            xmin = 213.143
+            xmax = 216.586
+            text = ""
+        intervals [85]
+            xmin = 216.586
+            xmax = 221.473
+            text = "nyny tal kypa ńe-my nįľčy-ŋ oryń-ń-a{1}"
+        intervals [86]
+            xmin = 221.473
+            xmax = 223.365
+            text = "ksa sūry-myt pērqyl-lä-myn."
+        intervals [87]
+            xmin = 223.365
+            xmax = 224.236
+            text = ""
+        intervals [88]
+            xmin = 224.236
+            xmax = 226.64
+            text = "nyny na čįŋā-myt tɛ̄tty-myn nɛj."
+        intervals [89]
+            xmin = 226.64
+            xmax = 227.376
+            text = ""
+        intervals [90]
+            xmin = 227.376
+            xmax = 240.706
+            text = "ukkur poqqy-l-līpy{1} wəččy-mmy-nt-yty{2} ukkyr ńe-myt lappa-ľ uty-sä mat piča-p qə̄qal-py-nt-ap a paramej qapį puškas-sä{3}"
+        intervals [91]
+            xmin = 240.706
+            xmax = 243.336
+            text = ""
+        intervals [92]
+            xmin = 243.336
+            xmax = 245.616
+            text = "nyny na qəqy-l-laka-myn{1} na ńō-mmy-nty-myn{2} na ńō-mmy-nty-myn{2}"
+        intervals [93]
+            xmin = 245.616
+            xmax = 247.299
+            text = "təp qos-kuty-ľ pɛläk-ty īky-mp-a."
+        intervals [94]
+            xmin = 247.299
+            xmax = 249.686
+            text = ""
+        intervals [95]
+            xmin = 249.686
+            xmax = 251.796
+            text = "sepylak kuntyk qältyry-s-ymyn."
+        intervals [96]
+            xmin = 251.796
+            xmax = 253.366
+            text = ""
+        intervals [97]
+            xmin = 253.366
+            xmax = 255.191
+            text = "ńi wətty-ty ńi qaj čǟŋk-Ø-a təp qaj ɛs-Ø-y."
+        intervals [98]
+            xmin = 255.191
+            xmax = 257.574
+            text = "ńaro-nty konnä pakty-mp-a nȳ lympǟ-myt. "
+        intervals [99]
+            xmin = 257.574
+            xmax = 258.816
+            text = ""
+        intervals [100]
+            xmin = 258.816
+            xmax = 261.275
+            text = "a ütyľ laša lympǟ-qyn aš aša ata."
+        intervals [101]
+            xmin = 261.275
+            xmax = 262.826
+            text = ""
+        intervals [102]
+            xmin = 262.826
+            xmax = 265.401
+            text = "a konnän ńary ńara-l-līpy{1}."
+        intervals [103]
+            xmin = 265.401
+            xmax = 266.628
+            text = ""
+        intervals [104]
+            xmin = 266.628
+            xmax = 269.455
+            text = "nyny on-äk pūn nįľčy-k tɛna-qäk pis-s-ap{1}"
+        intervals [105]
+            xmin = 269.455
+            xmax = 270.786
+            text = ""
+        intervals [106]
+            xmin = 270.786
+            xmax = 274.898
+            text = "na lymmä-m-ty{1} tɔ̄ pū-mp-aty ńaro-nDy konty."
+        intervals [107]
+            xmin = 274.898
+            xmax = 277.816
+            text = ""
+        intervals [108]
+            xmin = 277.816
+            xmax = 279.868
+            text = "nyny tamna na qältyry-nD-y kyry-k."
+        intervals [109]
+            xmin = 279.868
+            xmax = 283.666
+            text = ""
+        intervals [110]
+            xmin = 283.666
+            xmax = 286.784
+            text = "tį̄ moqonä qəl-lä{1} arat pēqal-Dɛnt-ap syrō-myt."
+        intervals [111]
+            xmin = 286.784
+            xmax = 287.805
+            text = ""
+    item[2]:
+        class = "IntervalTier"
+        name = "<rus>"
+        xmin = 0.0
+        xmax = 287.805
+        intervals: size = 111
+        intervals [1]
+            xmin = 0.0
+            xmax = 0.495
+            text = ""
+        intervals [2]
+            xmin = 0.495
+            xmax = 11.141
+            text = "Этой весной нашли лисью нору, а, лисью нору нашли. "
+        intervals [3]
+            xmin = 11.141
+            xmax = 15.075
+            text = ""
+        intervals [4]
+            xmin = 15.075
+            xmax = 24.318
+            text = "Туда пой… пойти собрались, это вот маленьких лисят поймать (чтобы). "
+        intervals [5]
+            xmin = 24.318
+            xmax = 26.734
+            text = ""
+        intervals [6]
+            xmin = 26.734
+            xmax = 28.318
+            text = "К лисьей норе пришли. "
+        intervals [7]
+            xmin = 28.318
+            xmax = 29.699
+            text = ""
+        intervals [8]
+            xmin = 29.699
+            xmax = 32.619
+            text = "я в нору [=в дом] смотрю, ни следа (ее), ничего (ее) нет. "
+        intervals [9]
+            xmin = 32.619
+            xmax = 34.132
+            text = ""
+        intervals [10]
+            xmin = 34.132
+            xmax = 35.353
+            text = "Племянник мой [=младший мой] потом так сказал: "
+        intervals [11]
+            xmin = 35.353
+            xmax = 36.874
+            text = ""
+        intervals [12]
+            xmin = 36.874
+            xmax = 39.658
+            text = "«Ушла уже, в норе нет». "
+        intervals [13]
+            xmin = 39.658
+            xmax = 41.144
+            text = ""
+        intervals [14]
+            xmin = 41.144
+            xmax = 47.187
+            text = "А он весной [=по насту] приходил один, племянник. "
+        intervals [15]
+            xmin = 47.187
+            xmax = 51.124
+            text = ""
+        intervals [16]
+            xmin = 51.124
+            xmax = 53.086
+            text = "Ни топора у меня [=моего], ничего у меня [=моего] нет. ‣ "
+        intervals [17]
+            xmin = 53.086
+            xmax = 53.425
+            text = ""
+        intervals [18]
+            xmin = 53.425
+            xmax = 56.485
+            text = "На краю этой лисьей норы кедр стоял. "
+        intervals [19]
+            xmin = 56.485
+            xmax = 57.288
+            text = ""
+        intervals [20]
+            xmin = 57.288
+            xmax = 59.673
+            text = "Этот кедр поджег [=огнем зажег] (я). "
+        intervals [21]
+            xmin = 59.673
+            xmax = 60.249
+            text = ""
+        intervals [22]
+            xmin = 60.249
+            xmax = 62.124
+            text = "Думаем: "
+        intervals [23]
+            xmin = 62.124
+            xmax = 63.812
+            text = ""
+        intervals [24]
+            xmin = 63.812
+            xmax = 66.504
+            text = "«Дыма нахватается, сама наружу выскочит». "
+        intervals [25]
+            xmin = 66.504
+            xmax = 72.403
+            text = ""
+        intervals [26]
+            xmin = 72.403
+            xmax = 74.629
+            text = "Потом оттуда, а вчетвером мы были, "
+        intervals [27]
+            xmin = 74.629
+            xmax = 76.636
+            text = ""
+        intervals [28]
+            xmin = 76.636
+            xmax = 79.269
+            text = "подальше двое [=два человека] шли. "
+        intervals [29]
+            xmin = 79.269
+            xmax = 83.836
+            text = ""
+        intervals [30]
+            xmin = 83.836
+            xmax = 94.442
+            text = "Славка или, а, у Парамея сучка его, сучка или кто-то лает (слышно, но не видно). "
+        intervals [31]
+            xmin = 94.442
+            xmax = 97.106
+            text = ""
+        intervals [32]
+            xmin = 97.106
+            xmax = 100.211
+            text = "Голову вверх подняв, на чернолесье краем глаза туда взглянул [=глаза краем туда бросил], "
+        intervals [33]
+            xmin = 100.211
+            xmax = 100.236
+            text = ""
+        intervals [34]
+            xmin = 100.236
+            xmax = 101.236
+            text = "что-то мелькнуло, "
+        intervals [35]
+            xmin = 101.236
+            xmax = 102.328
+            text = ""
+        intervals [36]
+            xmin = 102.328
+            xmax = 103.808
+            text = "и Славка оттуда бежит, "
+        intervals [37]
+            xmin = 103.808
+            xmax = 104.836
+            text = ""
+        intervals [38]
+            xmin = 104.836
+            xmax = 111.935
+            text = "медведь, ну, хорошо меня не видит, то-олстый кедра комель."
+        intervals [39]
+            xmin = 111.935
+            xmax = 113.336
+            text = ""
+        intervals [40]
+            xmin = 113.336
+            xmax = 117.766
+            text = "У комля дерева, ко мне лицом [=мне навстречу] повернувшись, медведь стоит (оказывается). "
+        intervals [41]
+            xmin = 117.766
+            xmax = 119.406
+            text = ""
+        intervals [42]
+            xmin = 119.406
+            xmax = 121.155
+            text = "А Парамею не видно. "
+        intervals [43]
+            xmin = 121.155
+            xmax = 122.166
+            text = ""
+        intervals [44]
+            xmin = 122.166
+            xmax = 122.766
+            text = "Так говорю: "
+        intervals [45]
+            xmin = 122.766
+            xmax = 123.766
+            text = "«Ружье твое сюда сейчас возьми!»{1}"
+        intervals [46]
+            xmin = 123.766
+            xmax = 126.566
+            text = ""
+        intervals [47]
+            xmin = 126.566
+            xmax = 129.658
+            text = "А (примерно) сорок метров есть, столько, столько в этом. "
+        intervals [48]
+            xmin = 129.658
+            xmax = 130.389
+            text = ""
+        intervals [49]
+            xmin = 130.389
+            xmax = 131.143
+            text = "Так думаю: "
+        intervals [50]
+            xmin = 131.143
+            xmax = 131.383
+            text = ""
+        intervals [51]
+            xmin = 131.383
+            xmax = 132.383
+            text = "«Выстрелю хорошо». "
+        intervals [52]
+            xmin = 132.383
+            xmax = 137.756
+            text = ""
+        intervals [53]
+            xmin = 137.756
+            xmax = 140.682
+            text = "Потом <когда> (медведь) побежал когда, племянник [=младший мой] увидел. "
+        intervals [54]
+            xmin = 140.682
+            xmax = 142.426
+            text = ""
+        intervals [55]
+            xmin = 142.426
+            xmax = 143.426
+            text = "Зверя погнал [=преследовать стал]. "
+        intervals [56]
+            xmin = 143.426
+            xmax = 145.736
+            text = ""
+        intervals [57]
+            xmin = 145.736
+            xmax = 147.958
+            text = "Не много времени прошло [=недолго есть (вроде)], ружье выстрелило [=лопнуло, бухнуло] (слышно). "
+        intervals [58]
+            xmin = 147.958
+            xmax = 149.886
+            text = ""
+        intervals [59]
+            xmin = 149.886
+            xmax = 152.718
+            text = "А мы втроем, я топор несу (вроде). "
+        intervals [60]
+            xmin = 152.718
+            xmax = 155.436
+            text = ""
+        intervals [61]
+            xmin = 155.436
+            xmax = 165.335
+            text = "Один из нас [=наш человек] лопату, лопату вроде взял, лисью нору раскапывать будет. "
+        intervals [62]
+            xmin = 165.335
+            xmax = 166.335
+            text = ""
+        intervals [63]
+            xmin = 166.335
+            xmax = 173.94
+            text = "Один из нас [=наш человек] сеть несет, лисьей норы вход закрывать будет. "
+        intervals [64]
+            xmin = 173.94
+            xmax = 178.556
+            text = ""
+        intervals [65]
+            xmin = 178.556
+            xmax = 181.467
+            text = "Не много времени вот прошло [=недолго есть] (вроде), ружье выстрелило [=лопнуло, бухнуло] (слышно). "
+        intervals [66]
+            xmin = 181.467
+            xmax = 184.216
+            text = ""
+        intervals [67]
+            xmin = 184.216
+            xmax = 185.216
+            text = "Вверх (по гриве{1}) бежим. "
+        intervals [68]
+            xmin = 185.216
+            xmax = 187.416
+            text = ""
+        intervals [69]
+            xmin = 187.416
+            xmax = 189.634
+            text = "Туда пришли, племянник [=младший мой] (там) стоит [=находится]."
+        intervals [70]
+            xmin = 189.634
+            xmax = 190.116
+            text = ""
+        intervals [71]
+            xmin = 190.116
+            xmax = 191.116
+            text = "«Зверь твой куда делся?»"
+        intervals [72]
+            xmin = 191.116
+            xmax = 192.366
+            text = ""
+        intervals [73]
+            xmin = 192.366
+            xmax = 193.52
+            text = "«(Я) выстрелил <будто>. "
+        intervals [74]
+            xmin = 193.52
+            xmax = 194.256
+            text = ""
+        intervals [75]
+            xmin = 194.256
+            xmax = 196.862
+            text = "Два раза < будто> перевернулся, упал, лежит. "
+        intervals [76]
+            xmin = 196.862
+            xmax = 200.716
+            text = ""
+        intervals [77]
+            xmin = 200.716
+            xmax = 203.329
+            text = "Потом в сторону как-то обратно <лишь> посмотрел, "
+        intervals [78]
+            xmin = 203.329
+            xmax = 203.506
+            text = ""
+        intervals [79]
+            xmin = 203.506
+            xmax = 205.604
+            text = "этот самый зверь [=медведь], <вверх> вскочив, вперед побежал. "
+        intervals [80]
+            xmin = 205.604
+            xmax = 208.896
+            text = ""
+        intervals [81]
+            xmin = 208.896
+            xmax = 210.329
+            text = "Недалеко [=немного туда] (я) гонял <будто>,…  …"
+        intervals [82]
+            xmin = 210.329
+            xmax = 210.626
+            text = ""
+        intervals [83]
+            xmin = 210.626
+            xmax = 213.143
+            text = "сучка моя <будто>, гоня, не отпуская [=все время], повела (медведя)»{1}. "
+        intervals [84]
+            xmin = 213.143
+            xmax = 216.586
+            text = ""
+        intervals [85]
+            xmin = 216.586
+            xmax = 221.473
+            text = "Потом дальше племянник [=младший мой] так говорит: "
+        intervals [86]
+            xmin = 221.473
+            xmax = 223.365
+            text = "Ну-ка, зверя нашего давайте искать будем!» "
+        intervals [87]
+            xmin = 223.365
+            xmax = 224.236
+            text = ""
+        intervals [88]
+            xmin = 224.236
+            xmax = 226.64
+            text = "Потом вот по гриве мы вчетвером вот это: "
+        intervals [89]
+            xmin = 226.64
+            xmax = 227.376
+            text = ""
+        intervals [90]
+            xmin = 227.376
+            xmax = 240.706
+            text = "один сетченку несет (вроде), один <наш человек> с лопатой в руке [=с олопаченной рукой], я топор на плече несу, а Парамей, вроде, с ружьем. "
+        intervals [91]
+            xmin = 240.706
+            xmax = 243.336
+            text = ""
+        intervals [92]
+            xmin = 243.336
+            xmax = 245.616
+            text = "Потом по этой гряде (поросшей сосновым лесом) [=по бору] вот гоним, <вот> гоним. "
+        intervals [93]
+            xmin = 245.616
+            xmax = 247.299
+            text = "один сетчонку несет (вроде), один <наш человек> с лопатой в руке [=с олопаченной рукой], я топор на плече несу, а Парамей, вроде, с ружьем."
+        intervals [94]
+            xmin = 247.299
+            xmax = 249.686
+            text = ""
+        intervals [95]
+            xmin = 249.686
+            xmax = 251.796
+            text = "Довольно долго ходили. "
+        intervals [96]
+            xmin = 251.796
+            xmax = 253.366
+            text = ""
+        intervals [97]
+            xmin = 253.366
+            xmax = 255.191
+            text = "Ни следа его, ничего нет, с ним что стало [=он что стал], "
+        intervals [98]
+            xmin = 255.191
+            xmax = 257.574
+            text = "в тундру наверх {от реки} убежал туда, по болоту."
+        intervals [99]
+            xmin = 257.574
+            xmax = 258.816
+            text = ""
+        intervals [100]
+            xmin = 258.816
+            xmax = 261.275
+            text = "А водой болото заливает [=водяное озерцо на болоте], <не> не видно (следа). "
+        intervals [101]
+            xmin = 261.275
+            xmax = 262.826
+            text = ""
+        intervals [102]
+            xmin = 262.826
+            xmax = 265.401
+            text = "А наверху [=от реки подальше] тундра, маленькая тундришка. "
+        intervals [103]
+            xmin = 265.401
+            xmax = 266.628
+            text = ""
+        intervals [104]
+            xmin = 266.628
+            xmax = 269.455
+            text = "Потом я сам после так подумал [=на ум положил]: "
+        intervals [105]
+            xmin = 269.455
+            xmax = 270.786
+            text = ""
+        intervals [106]
+            xmin = 270.786
+            xmax = 274.898
+            text = "На лыммӓмты тө̄ пӯмпаты, няронты конты."
+        intervals [107]
+            xmin = 274.898
+            xmax = 277.816
+            text = ""
+        intervals [108]
+            xmin = 277.816
+            xmax = 279.868
+            text = "До сих пор ходит (наверное) подранком. "
+        intervals [109]
+            xmin = 279.868
+            xmax = 283.666
+            text = ""
+        intervals [110]
+            xmin = 283.666
+            xmax = 286.784
+            text = "Сейчас домой придя [=уйдя (отсюда)], осенью буду искать (этого медведя) по снегу."
+        intervals [111]
+            xmin = 286.784
+            xmax = 287.805
+            text = ""
+    item[3]:
+        class = "IntervalTier"
+        name = "<gl>"
+        xmin = 0.0
+        xmax = 287.805
+        intervals: size = 111
+        intervals [1]
+            xmin = 0.0
+            xmax = 0.495
+            text = ""
+        intervals [2]
+            xmin = 0.495
+            xmax = 11.141
+            text = "этот весной нашли лисью нору а лиса.SG-GEN нора.SG-GEN-SING.SG.NOM найти-PST-1PL.SBJ/OBJ"
+        intervals [3]
+            xmin = 11.141
+            xmax = 15.075
+            text = ""
+        intervals [4]
+            xmin = 15.075
+            xmax = 24.318
+            text = "туда LAPS уйти-INF-AUX.INCH-PST-1PL.SBJ/OBJ вот.это маленький-DMN лиса-DMN-PL-ACC схватить-INF"
+        intervals [5]
+            xmin = 24.318
+            xmax = 26.734
+            text = ""
+        intervals [6]
+            xmin = 26.734
+            xmax = 28.318
+            text = "лиса.SG-GEN нора.SG-ILL прийти-PST-1PL.SBJ/OBJ"
+        intervals [7]
+            xmin = 28.318
+            xmax = 29.699
+            text = ""
+        intervals [8]
+            xmin = 29.699
+            xmax = 32.619
+            text = "я.NOM чум.SG-ILL смотреть-DUR-1SG.SBJ ни след.SG.NOM-POSS.3SG ни что.NOM-POSS.3SG иметься.NEG-PRS-3SG.SBJ"
+        intervals [9]
+            xmin = 32.619
+            xmax = 34.132
+            text = ""
+        intervals [10]
+            xmin = 34.132
+            xmax = 35.353
+            text = "маленький существо.SG.NOM-POSS.1SG потом так сказать-PRS-3SG.SBJ"
+        intervals [11]
+            xmin = 35.353
+            xmax = 36.874
+            text = ""
+        intervals [12]
+            xmin = 36.874
+            xmax = 39.658
+            text = "уйти-PSTN-3SG.SBJ уже нора.SG-LOC.POSS.3SG иметься.NEG-PRS-3SG.SBJ"
+        intervals [13]
+            xmin = 39.658
+            xmax = 41.144
+            text = ""
+        intervals [14]
+            xmin = 41.144
+            xmax = 47.187
+            text = "а он.NOM весна/наст.SG-LOC приходить-PSTN-3SG.SBJ товарищ.SG-PRV маленький существо.SG.NOM-POS1SG.SBJ"
+        intervals [15]
+            xmin = 47.187
+            xmax = 51.124
+            text = ""
+        intervals [16]
+            xmin = 51.124
+            xmax = 53.086
+            text = "ни топор.SG.NOM-POSS.1SG будто ни что.NOM-POSS.1SG иметься.NEG-PRS-3SG.SBJ"
+        intervals [17]
+            xmin = 53.086
+            xmax = 53.425
+            text = ""
+        intervals [18]
+            xmin = 53.425
+            xmax = 56.485
+            text = "этот лиса.SG-GEN нора-DMN.SG-GEN край.SG-LOC кедр.SG.NOM торчать-DUR-EVID.PRS-3SG.SBJ"
+        intervals [19]
+            xmin = 56.485
+            xmax = 57.288
+            text = ""
+        intervals [20]
+            xmin = 57.288
+            xmax = 59.673
+            text = "этот кедр.SG.NOM-POSS.3SG огонь.SG-INS зажечь-PFV.INTS-PSTN-1SG.OBJ"
+        intervals [21]
+            xmin = 59.673
+            xmax = 60.249
+            text = ""
+        intervals [22]
+            xmin = 60.249
+            xmax = 62.124
+            text = "думать-DUR-PRS-1PL.SBJ/OBJ"
+        intervals [23]
+            xmin = 62.124
+            xmax = 63.812
+            text = ""
+        intervals [24]
+            xmin = 63.812
+            xmax = 66.504
+            text = "дым.SG-ACC схватить-IPFV-PRS-3SG.OBJ сам-3SG на.улицу выскочить-PFV.DECAUS-FUT-3SG.SBJ"
+        intervals [25]
+            xmin = 66.504
+            xmax = 72.403
+            text = ""
+        intervals [26]
+            xmin = 72.403
+            xmax = 74.629
+            text = "потом оттуда а четыре-COLL.1PL и быть-PST-1PL.SBJ/OBJ"
+        intervals [27]
+            xmin = 74.629
+            xmax = 76.636
+            text = ""
+        intervals [28]
+            xmin = 76.636
+            xmax = 79.269
+            text = "подальше два человек-DU.NOM-POSS.1SG подальше идти-DUR-PRS-3DU.SBJ"
+        intervals [29]
+            xmin = 79.269
+            xmax = 83.836
+            text = ""
+        intervals [30]
+            xmin = 83.836
+            xmax = 94.442
+            text = "Славка.SG.NOM или а Парамей.SG.NOM сука-DMN.SG.NOM-POSS.3SG сука-DMN.SG.NOM или кто.NOM-INDEF лаять-EVID-3SG.SBJ"
+        intervals [31]
+            xmin = 94.442
+            xmax = 97.106
+            text = ""
+        intervals [32]
+            xmin = 97.106
+            xmax = 100.211
+            text = "голова.SG-ACC вверх поднять-CVB чаща.SG-ILL глаз.SG-GEN край.SG-INS туда ударить-CAUS-PRS-1SG.OBJ"
+        intervals [33]
+            xmin = 100.211
+            xmax = 100.236
+            text = ""
+        intervals [34]
+            xmin = 100.236
+            xmax = 101.236
+            text = "INDEF-что.NOM мелькать-PFV.DECAUS-EVID.PRS-3SG.SBJ"
+        intervals [35]
+            xmin = 101.236
+            xmax = 102.328
+            text = ""
+        intervals [36]
+            xmin = 102.328
+            xmax = 103.808
+            text = "и Славка.SG.NOM оттуда идти-PFV.INTS-DUR-3SG.SBJ"
+        intervals [37]
+            xmin = 103.808
+            xmax = 104.836
+            text = ""
+        intervals [38]
+            xmin = 104.836
+            xmax = 111.935
+            text = "медведь.SG-GEN-SING.NOM ну хороший-ADVZ  NEG я.ACC это увидеть-IPFV-PRS-3SG.SBJ толстый кедр.SG-GEN основание.SG.NOM"
+        intervals [39]
+            xmin = 111.935
+            xmax = 113.336
+            text = ""
+        intervals [40]
+            xmin = 113.336
+            xmax = 117.766
+            text = "кедр.SG-GEN основание.SG-LOC я.DAT навстречу повернуться-DUR-CVB медведь-GEN-SING.SG.NOM стоять-EVID.PRS-3SG.SBJ"
+        intervals [41]
+            xmin = 117.766
+            xmax = 119.406
+            text = ""
+        intervals [42]
+            xmin = 119.406
+            xmax = 121.155
+            text = "а Парамей.SG-GEN-DAT NEG видно"
+        intervals [43]
+            xmin = 121.155
+            xmax = 122.166
+            text = ""
+        intervals [44]
+            xmin = 122.166
+            xmax = 122.766
+            text = "так говорить-PRS-1SG.OBJ"
+        intervals [45]
+            xmin = 122.766
+            xmax = 123.766
+            text = "ружье.SG.NOM-POSS.2SG сюда сейчас взять-IMP. 2SG.OBJ"
+        intervals [46]
+            xmin = 123.766
+            xmax = 126.566
+            text = ""
+        intervals [47]
+            xmin = 126.566
+            xmax = 129.658
+            text = "а сорок-ATR метр.SG-GEN-EQUAT быть-PRS-3SG.SBJ столько-ATR столько-ATR это-LOC"
+        intervals [48]
+            xmin = 129.658
+            xmax = 130.389
+            text = ""
+        intervals [49]
+            xmin = 130.389
+            xmax = 131.143
+            text = "так думать-DUR-PRS-1SG.SBJ"
+        intervals [50]
+            xmin = 131.143
+            xmax = 131.383
+            text = ""
+        intervals [51]
+            xmin = 131.383
+            xmax = 132.383
+            text = "бросить-FUT-1SG.OBJ хороший-ADVZ"
+        intervals [52]
+            xmin = 132.383
+            xmax = 137.756
+            text = ""
+        intervals [53]
+            xmin = 137.756
+            xmax = 140.682
+            text = "потом когда побежать-NMLZ-LOC.POSS.3SG маленький существо.SG.NOM-POSS.1SG увидеть-PFV.INTS-EVID.PRS-3SG.OBJ"
+        intervals [54]
+            xmin = 140.682
+            xmax = 142.426
+            text = ""
+        intervals [55]
+            xmin = 142.426
+            xmax = 143.426
+            text = "зверь.SG.NOM-POSS.3SG догонять-PFV.INTS-PRS-3SG.OBJ"
+        intervals [56]
+            xmin = 143.426
+            xmax = 145.736
+            text = ""
+        intervals [57]
+            xmin = 145.736
+            xmax = 147.958
+            text = "NEG долго вот быть-EVID.PRS-3SG.SBJ ружье.SG.NOM лопнуть-PFV.INTS-EVID.PRS-3SG.SBJ"
+        intervals [58]
+            xmin = 147.958
+            xmax = 149.886
+            text = ""
+        intervals [59]
+            xmin = 149.886
+            xmax = 152.718
+            text = "а мы три-COLL.1PL я.NOM топор.SG.NOM нести-PSTN-EVID-1SG.OBJ"
+        intervals [60]
+            xmin = 152.718
+            xmax = 155.436
+            text = ""
+        intervals [61]
+            xmin = 155.436
+            xmax = 165.335
+            text = "HES один существо.SG.NOM-POSS.1PL лопата.SG.NOM лопата.SG-GEN-SING.NOM вроде взять-PST-3SG.OBJ лиса.SG-GEN нора.SG-GEN-SING.NOM разрывать-FUT-3SG.OBJ"
+        intervals [62]
+            xmin = 165.335
+            xmax = 166.335
+            text = ""
+        intervals [63]
+            xmin = 166.335
+            xmax = 173.94
+            text = "а один существо.SG.NOM-POSS.1PL и сеть.SG-GEN-SING.NOM нести-PSTN-EVID.PRS-3SG.SBJ HES лиса.SG-GEN нора.SG-GEN рот.SG-ACC закрыть-FUT-3SG.OBJ"
+        intervals [64]
+            xmin = 173.94
+            xmax = 178.556
+            text = ""
+        intervals [65]
+            xmin = 178.556
+            xmax = 181.467
+            text = "NEG вот долго быть-EVID.PRS-3SG.SBJ ружье.SG.NOM лопнуть-PFV.INTS-EVID.PRS-3SG.SBJ"
+        intervals [66]
+            xmin = 181.467
+            xmax = 184.216
+            text = ""
+        intervals [67]
+            xmin = 184.216
+            xmax = 185.216
+            text = "вверх.от.реки бежать-PFV.INTS-DUR-PRS-3SG.SBJ"
+        intervals [68]
+            xmin = 185.216
+            xmax = 187.416
+            text = ""
+        intervals [69]
+            xmin = 187.416
+            xmax = 189.634
+            text = "сюда вот прийти-EVID.PRS-3PL.SBJ маленький существо.SG.NOM-POSS.1SG находиться-EVID.PRS.3SG.SBJ"
+        intervals [70]
+            xmin = 189.634
+            xmax = 190.116
+            text = ""
+        intervals [71]
+            xmin = 190.116
+            xmax = 191.116
+            text = "зверь.SG.NOM-POSS.2SG куда.деться.INTRG-INTS.DECAUS-PST-3SG.SBJ«Сӯрул қатті̄йс?»"
+        intervals [72]
+            xmin = 191.116
+            xmax = 192.366
+            text = ""
+        intervals [73]
+            xmin = 192.366
+            xmax = 193.52
+            text = "бросить-PST-1SG.OBJ будто"
+        intervals [74]
+            xmin = 193.52
+            xmax = 194.256
+            text = ""
+        intervals [75]
+            xmin = 194.256
+            xmax = 196.862
+            text = "два раз.SG.NOM будто перевернуться-PFV.DECAUS-PST-3SG.SBJ упасть-PST-3SG.SBJ лежать-PRS-3SG.SBJ"
+        intervals [76]
+            xmin = 196.862
+            xmax = 200.716
+            text = ""
+        intervals [77]
+            xmin = 200.716
+            xmax = 203.329
+            text = "потом в.сторону-INDEF обратно лишь вот посмотреть-PFV.INTS-EVID.PRS-1SG.SBJ"
+        intervals [78]
+            xmin = 203.329
+            xmax = 203.506
+            text = ""
+        intervals [79]
+            xmin = 203.506
+            xmax = 205.604
+            text = "этот.самый зверь.SG.NOM вверх побежать-CVB вперед побежать-PRS-3SG.SBJ"
+        intervals [80]
+            xmin = 205.604
+            xmax = 208.896
+            text = ""
+        intervals [81]
+            xmin = 208.896
+            xmax = 210.329
+            text = "туда-DMN догонять-DUR-PST-1SG.OBJ будто"
+        intervals [82]
+            xmin = 210.329
+            xmax = 210.626
+            text = ""
+        intervals [83]
+            xmin = 210.626
+            xmax = 213.143
+            text = "сука-DMN.SG.NOM-POSS.1SG будто гнать-CVB всегда увести-PST-3SG.OBJ"
+        intervals [84]
+            xmin = 213.143
+            xmax = 216.586
+            text = ""
+        intervals [85]
+            xmin = 216.586
+            xmax = 221.473
+            text = "потом дальше маленький существо.SG.NOM-POSS.1SG такой-ADVZ говорить-PRS-3SG.SBJ"
+        intervals [86]
+            xmin = 221.473
+            xmax = 223.365
+            text = "HORT зверь.SG.NOM-POSS.1PL искать-OPT-1PL.SBJ/OBJ"
+        intervals [87]
+            xmin = 223.365
+            xmax = 224.236
+            text = ""
+        intervals [88]
+            xmin = 224.236
+            xmax = 226.64
+            text = "потом вот грива.SG-PROL четыре-COLL.1PL вот.это"
+        intervals [89]
+            xmin = 226.64
+            xmax = 227.376
+            text = ""
+        intervals [90]
+            xmin = 227.376
+            xmax = 240.706
+            text = "один сеть.GEN-PEJ.NOM нести-DUR-EVID.PRS-3SG.OBJ один существо.SG.NOM-POSS.1PL лопата-ATR рука.SG-INS я.NOM топор.SG.NOM-POSS.1SG нести.на.плечах-DUR-EVID.PRS-1SG.OBJ а Парамей.SG.NOM вроде ружье.SG-INS"
+        intervals [91]
+            xmin = 240.706
+            xmax = 243.336
+            text = ""
+        intervals [92]
+            xmin = 243.336
+            xmax = 245.616
+            text = "потом вот бор.SG-GEN-SING-PROL вот гнать-DUR-EVID.PRS-1PL.SBJ/OBJ вот гнать-DUR-EVID.PRS-1PL.SBJ/OBJ"
+        intervals [93]
+            xmin = 245.616
+            xmax = 247.299
+            text = "он INDEF-кто-ATR половина.SG-ILL исчезнуть-PSTN-3SG.SBJ"
+        intervals [94]
+            xmin = 247.299
+            xmax = 249.686
+            text = ""
+        intervals [95]
+            xmin = 249.686
+            xmax = 251.796
+            text = "довольно долго ходить-PST-1PL.SBJ/OBJ"
+        intervals [96]
+            xmin = 251.796
+            xmax = 253.366
+            text = ""
+        intervals [97]
+            xmin = 253.366
+            xmax = 255.191
+            text = "ни след.SG.NOM-POSS.3SG ни что не.иметься-PRS-3SG.SBJ он что стать-PRS-3SG.SBJ"
+        intervals [98]
+            xmin = 255.191
+            xmax = 257.574
+            text = "тундра.SG-ILL вверх.от.реки побежать-PSTN-3SG.SBJ туда болото.SG-PROL"
+        intervals [99]
+            xmin = 257.574
+            xmax = 258.816
+            text = ""
+        intervals [100]
+            xmin = 258.816
+            xmax = 261.275
+            text = "а вода-ATR небольшое.озеро.SG.NOM болото.SG-LOC NEG.HES NEG видно"
+        intervals [101]
+            xmin = 261.275
+            xmax = 262.826
+            text = ""
+        intervals [102]
+            xmin = 262.826
+            xmax = 265.401
+            text = "а наверху тундра.SG.NOM тундра.SG-GEN-PEJ.NOM"
+        intervals [103]
+            xmin = 265.401
+            xmax = 266.628
+            text = ""
+        intervals [104]
+            xmin = 266.628
+            xmax = 269.455
+            text = "потом сам-1SG потом такой-ADVZ ум.SG-ILL.POSS.1SG"
+        intervals [105]
+            xmin = 269.455
+            xmax = 270.786
+            text = ""
+        intervals [106]
+            xmin = 270.786
+            xmax = 274.898
+            text = "этот болото.SG-ACC-POSS.3SG на.другую.сторону переправиться-PSTN-3SG.OBJ тундра.SG-ILL вверх.от.реки."
+        intervals [107]
+            xmin = 274.898
+            xmax = 277.816
+            text = ""
+        intervals [108]
+            xmin = 277.816
+            xmax = 279.868
+            text = "потом до.сих.пор вот ходить-EVID.PRS-3SG.SBJ рана-ADV"
+        intervals [109]
+            xmin = 279.868
+            xmax = 283.666
+            text = ""
+        intervals [110]
+            xmin = 283.666
+            xmax = 286.784
+            text = "сейчас домой уйти-CVB осенью искать-FUT-1SG.OBJ снег.SG-PROL"
+        intervals [111]
+            xmin = 286.784
+            xmax = 287.805
+            text = ""

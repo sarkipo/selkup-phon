@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2017-03-27T18:42:28+01:00" FORMAT="2.8" VERSION="2.8" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv2.8.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///C:/YandexDisk/COURSES/Samoyedic-2017/Transcriptions_ELAN/16_KFN_MädchenUndBär.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./16_KFN_MädchenUndBär.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:f8d693f9-7424-4f42-a04f-7eb50a0cc7bd</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">60</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="2820"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="6960"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="7950"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="10660"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="12138"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="16788"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="17643"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="23573"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="24048"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="26238"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="26523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="29393"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="30508"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="33148"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="34048"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="37378"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="37943"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="40673"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="41578"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="44308"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="44603"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="48003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="48473"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="51823"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="52308"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="55098"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="55873"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="59673"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="59943"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="62633"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="63808"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="67278"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="67483"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="72673"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="72998"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="75908"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="76123"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="78363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="79133"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="83253"/>
+    </TIME_ORDER>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="A_phrase-txt-sel" TIER_ID="A_phrase-gls-ru">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a1" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Зимой люди ушли в тайгу.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Женщины остались дома.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Зимой по небольшому снегу медведь пришел.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a4" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Женщины в уличную печку хлеб посадили.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a5" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Медведь (прочь) сломал.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>Этот хлеб весь съел.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Потом в сени зашел.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Мучной мешок весь порвал.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Ондж пирэт вес чагоджемба. </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Потом в дом захотел.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Женщины которые в подпол попрятались.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Одна девушка пулю делает.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Пулю сделала, ружье зарядила (=накормила). </ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a14" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Медведь к окошку встал, в дом посмотреть.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Она в грудь выстрелила.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>Потом шкуру ободрать не могут (не знают, не умеют).</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a17" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Один человек отправил за 20 километров (?), верст.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a18" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>Оттуда мужчины пришли.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>Медведя ободрали.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>Обдирая, это медвежье мясо всё съели.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="A_phrase-txt-sel" TIER_ID="A_phrase-lit-sel-Latn-x-source"/>
+    <TIER DEFAULT_LOCALE="ru" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="A_phrase-txt-sel" TIER_ID="A_phrase-note-ru"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="phrase" TIER_ID="A_phrase-txt-sel">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>kandəgət kut maǯʼondə qwenbat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>nälgut maːtə qalembat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>kandəqət aː warge hərɔːgət korqə tömba .</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>nälguǯ šogort... ponəl šogort nʼajem ɔmdəlǯəmbat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>kɔrqə tak panalbat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>nanə na nʼaj vesʼ ambat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>potom košonʼenǯ šerba.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>mugal koǯap tak nʼiškɨlbat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>onǯə pirət vesʼ čaːqəǯəmba.
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>potom mat kɨgʼelɨmban.
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>nälʼgut katora podpolǯə ateːlʼǯʼɨmbat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>okkor nadek olɨm meːšpat.
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>olɨm meːmbat, tülʼdem abɛdɛmbat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>korg okoškand nɨlʼeǯemba, maːt manämbugu.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>tab kɨlʼ nolʼǯʼag čaǯembat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a36" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>potom kalʼčʼegu taqqergu aː tänwat. </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a37" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>okkɨr qup üdombat šədarə konertərtə, vʼerstandərʼi.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a38" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>načagəndə tebelqup tömbat.
+</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>korqəp taqqɨrɨmbat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>taqqɨrlʼe pulʼe na korqən waǯʼep vʼesʼ ambat.</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="phrase-item" PARENT_REF="A_phrase-txt-sel" TIER_ID="A_phrase-lit-sel-Cyrl-x-source">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a41" ANNOTATION_REF="a21">
+                <ANNOTATION_VALUE>Кандэӷэт кут маджӧнд қвэнбат.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a42" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>Нӓлгут ма̄тэ қалэмбат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a43" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>Кандэӷэт а̄варг хэроӷэт қорӷ тӧмба.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>Нӓлгут шогорт … понэл шогорт нӓйем омдэлджэмбат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>Корг так паналбат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>На нӓйм вес амбат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a47" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>Потом кошонендж шэрба.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a48" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>Мугал коджап так нишкылбат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a49" ANNOTATION_REF="a29">
+                <ANNOTATION_VALUE>Сам весь побелел.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a50" ANNOTATION_REF="a30">
+                <ANNOTATION_VALUE>Потом ма̄т кыгелымбан.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a51" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>Нӓлгут катора подполджэ атэльджембат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a52" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>Оккор надэк олым мешпат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a53" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>Олом мембат, тӱльдэм абэдэмбат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>Корг акошканд ныледжемба, ма̄т манэмбэгу.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>Таб кыль нольджӓӷ чаджембат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a36">
+                <ANNOTATION_VALUE>Потом кальчегу таққэргу а̄ тэнват.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a57" ANNOTATION_REF="a37">
+                <ANNOTATION_VALUE>Оққэр қуп ӱдомбат шэдаро конэртэртэ верстандви.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a58" ANNOTATION_REF="a38">
+                <ANNOTATION_VALUE>Начагындо тэбэлгуп тӧмбат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a59" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>Коргоп таққырымбат.
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>Таққырле пуле на коргон ваджеп вес амбат.</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="word" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="phrase-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morph-item" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="morph" TIME_ALIGNABLE="false"/>
+    <LOCALE LANGUAGE_CODE="ru"/>
+    <LOCALE COUNTRY_CODE="GB" LANGUAGE_CODE="en"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
