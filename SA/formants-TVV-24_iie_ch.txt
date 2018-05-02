@@ -1,0 +1,14 @@
+speaker	phone_ctx	phone	vowel	duration	ceiling	variance	F1	F2	F3	F1Bk	F2Bk	F3Bk	start	word	filename	status
+TVV	^čı	ı	ı	0.084	6880	0.089	281	2271	3058	2.94	13.75	15.77	0.401	čʼımɨ	glue-CHI_MY	Auto
+TVV	^čı	ı	ı	0.167	6220	0.237	314	2347	2987	3.27	13.97	15.61	1.546	čʼımɨ	glue-CHI_MY	Auto
+TVV	^čı	ı	ı	0.097	6720	0.056	339	2304	2864	3.50	13.84	15.32	2.377	čʼımɨ	glue-CHI_MY	Auto
+TVV	^či	i	i	0.098	6720	0.032	302	2534	3304	3.14	14.49	16.30	0.980	čʼipɨ	end-CHIPY	Auto
+TVV	^či	i	i	0.082	6240	0.041	306	2572	3269	3.18	14.59	16.23	2.533	čʼipɨ	end-CHIPY	Auto
+TVV	^či	i	i	0.100	7080	0.030	329	2506	3474	3.41	14.41	16.64	3.995	čʼipɨ	end-CHIPY	Auto
+TVV	^či	i	i	0.088	7080	0.176	319	2478	3308	3.31	14.34	16.31	4.960	čʼipɨ	end-CHIPY	Auto
+TVV	^čı	ı	ı	0.092	5990	0.098	364	1997	2696	3.74	12.89	14.91	0.335	čʼıŋkɨ	swan-CHYNGKY	Auto
+TVV	^čı	ı	ı	0.119	5170	0.095	387	1938	2451	3.96	12.69	14.26	1.460	čʼıŋ-kɨ	swan-CHYNGKY	Auto
+TVV	^čı	ı	ı	0.165	5710	0.070	346	2159	2463	3.57	13.41	14.30	3.531	čʼıŋ-kɨ	swan-CHYNGKY	Auto
+TVV	^čə	ə	ə	0.116	5710	0.069	445	2029	2544	4.48	12.99	14.52	0.152	čʼəssa	towards-CHE_SSA	Auto
+TVV	^čə	ə	ə	0.160	5970	0.049	455	2059	2542	4.57	13.09	14.51	1.214	čʼəssa	towards-CHE_SSA	Auto
+TVV	^čə	ə	ə	0.139	5310	0.036	418	2017	2521	4.24	12.95	14.45	2.237	čʼəssa	towards-CHE_SSA	Auto
