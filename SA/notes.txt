@@ -1,0 +1,7 @@
+special marks in Words tier:
+
+* noisy
+° too quiet
+$ interfering context
+- sliced pronunciation (e.g. kü-lä)
+? rejected/uncertain pronunciation
