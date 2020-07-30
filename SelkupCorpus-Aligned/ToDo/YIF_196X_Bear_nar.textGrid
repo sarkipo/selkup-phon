@@ -1,0 +1,3574 @@
+File type = "ooTextFile"
+Object class = "TextGrid"
+
+xmin = 0 
+xmax = 172.045 
+tiers? <exists> 
+size = 7 
+item []: 
+    item [1]:
+        class = "IntervalTier" 
+        name = "YIF|t|tx" 
+        xmin = 0 
+        xmax = 172.045 
+        intervals: size = 311 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.37 
+            text = "" 
+        intervals [2]:
+            xmin = 1.37 
+            xmax = 2.124 
+            text = "Mat " 
+        intervals [3]:
+            xmin = 2.124 
+            xmax = 2.5010000000000003 
+            text = "näːn " 
+        intervals [4]:
+            xmin = 2.5010000000000003 
+            xmax = 2.878 
+            text = "opte " 
+        intervals [5]:
+            xmin = 2.878 
+            xmax = 3.6319999999999997 
+            text = "čobərtko " 
+        intervals [6]:
+            xmin = 3.6319999999999997 
+            xmax = 4.385999999999999 
+            text = "kwessaj, " 
+        intervals [7]:
+            xmin = 4.385999999999999 
+            xmax = 4.763 
+            text = "Lüdmilan " 
+        intervals [8]:
+            xmin = 4.763 
+            xmax = 5.14 
+            text = "opte. " 
+        intervals [9]:
+            xmin = 5.14 
+            xmax = 6.226631228930135 
+            text = "" 
+        intervals [10]:
+            xmin = 6.226631228930135 
+            xmax = 6.80375 
+            text = "A " 
+        intervals [11]:
+            xmin = 6.80375 
+            xmax = 7.3925 
+            text = "mi " 
+        intervals [12]:
+            xmin = 7.3925 
+            xmax = 7.686875000000001 
+            text = "abɨʒej " 
+        intervals [13]:
+            xmin = 7.686875000000001 
+            xmax = 7.98125 
+            text = "kat " 
+        intervals [14]:
+            xmin = 7.98125 
+            xmax = 8.57 
+            text = "qwen. " 
+        intervals [15]:
+            xmin = 8.57 
+            xmax = 8.59 
+            text = "" 
+        intervals [16]:
+            xmin = 8.59 
+            xmax = 9.04 
+            text = "A " 
+        intervals [17]:
+            xmin = 9.04 
+            xmax = 9.49 
+            text = "bauška " 
+        intervals [18]:
+            xmin = 9.49 
+            xmax = 9.94 
+            text = "Warwara " 
+        intervals [19]:
+            xmin = 9.94 
+            xmax = 10.389999999999999 
+            text = "načʼan " 
+        intervals [20]:
+            xmin = 10.389999999999999 
+            xmax = 10.84 
+            text = "(wa-) " 
+        intervals [21]:
+            xmin = 10.84 
+            xmax = 11.29 
+            text = "wargɨhaɣ. " 
+        intervals [22]:
+            xmin = 11.29 
+            xmax = 12.055 
+            text = "" 
+        intervals [23]:
+            xmin = 12.055 
+            xmax = 12.6625 
+            text = "Üdenne " 
+        intervals [24]:
+            xmin = 12.6625 
+            xmax = 13.27 
+            text = "qwessaj. " 
+        intervals [25]:
+            xmin = 13.27 
+            xmax = 13.685 
+            text = "" 
+        intervals [26]:
+            xmin = 13.685 
+            xmax = 14.268571428571429 
+            text = "Taper " 
+        intervals [27]:
+            xmin = 14.268571428571429 
+            xmax = 14.852142857142857 
+            text = "töwaj – " 
+        intervals [28]:
+            xmin = 14.852142857142857 
+            xmax = 15.435714285714285 
+            text = "bauška " 
+        intervals [29]:
+            xmin = 15.435714285714285 
+            xmax = 16.019285714285715 
+            text = "Warwara " 
+        intervals [30]:
+            xmin = 16.019285714285715 
+            xmax = 16.602857142857143 
+            text = "nʼejtuwaɣ " 
+        intervals [31]:
+            xmin = 16.602857142857143 
+            xmax = 17.18642857142857 
+            text = "na " 
+        intervals [32]:
+            xmin = 17.18642857142857 
+            xmax = 17.77 
+            text = "astanopte. " 
+        intervals [33]:
+            xmin = 17.77 
+            xmax = 18.045 
+            text = "" 
+        intervals [34]:
+            xmin = 18.045 
+            xmax = 18.5465 
+            text = "A " 
+        intervals [35]:
+            xmin = 18.5465 
+            xmax = 19.048000000000002 
+            text = "mat " 
+        intervals [36]:
+            xmin = 19.048000000000002 
+            xmax = 19.549500000000002 
+            text = "Lʼutkan " 
+        intervals [37]:
+            xmin = 19.549500000000002 
+            xmax = 20.051000000000002 
+            text = "čenčak: " 
+        intervals [38]:
+            xmin = 20.051000000000002 
+            xmax = 20.552500000000002 
+            text = "“Manǯoɣa – " 
+        intervals [39]:
+            xmin = 20.552500000000002 
+            xmax = 21.054000000000002 
+            text = "tawčitə " 
+        intervals [40]:
+            xmin = 21.054000000000002 
+            xmax = 21.5555 
+            text = "qwellaj, " 
+        intervals [41]:
+            xmin = 21.5555 
+            xmax = 21.80625 
+            text = "tawčit " 
+        intervals [42]:
+            xmin = 21.80625 
+            xmax = 22.057 
+            text = "taw " 
+        intervals [43]:
+            xmin = 22.057 
+            xmax = 22.5585 
+            text = "belekaɨt " 
+        intervals [44]:
+            xmin = 22.5585 
+            xmax = 23.06 
+            text = "qwellaj. " 
+        intervals [45]:
+            xmin = 23.06 
+            xmax = 23.5475 
+            text = "Tɨndə, " 
+        intervals [46]:
+            xmin = 23.5475 
+            xmax = 24.035 
+            text = "moʒet, " 
+        intervals [47]:
+            xmin = 24.035 
+            xmax = 24.5225 
+            text = "čobər " 
+        intervals [48]:
+            xmin = 24.5225 
+            xmax = 25.01 
+            text = "qolajhe.” " 
+        intervals [49]:
+            xmin = 25.01 
+            xmax = 25.39 
+            text = "" 
+        intervals [50]:
+            xmin = 25.39 
+            xmax = 26.023333333333333 
+            text = "Taper " 
+        intervals [51]:
+            xmin = 26.023333333333333 
+            xmax = 26.656666666666666 
+            text = "üpɨǯäj, " 
+        intervals [52]:
+            xmin = 26.656666666666666 
+            xmax = 27.29 
+            text = "čaːǯaj. " 
+        intervals [53]:
+            xmin = 27.29 
+            xmax = 27.545 
+            text = "" 
+        intervals [54]:
+            xmin = 27.545 
+            xmax = 28.240714285714287 
+            text = "A " 
+        intervals [55]:
+            xmin = 28.240714285714287 
+            xmax = 28.93642857142857 
+            text = "Lʼutka " 
+        intervals [56]:
+            xmin = 28.93642857142857 
+            xmax = 29.63214285714286 
+            text = "meka " 
+        intervals [57]:
+            xmin = 29.63214285714286 
+            xmax = 29.980000000000004 
+            text = "čenča, " 
+        intervals [58]:
+            xmin = 29.980000000000004 
+            xmax = 30.327857142857145 
+            text = "kawarit: " 
+        intervals [59]:
+            xmin = 30.327857142857145 
+            xmax = 30.675714285714285 
+            text = "“Tɨndə, " 
+        intervals [60]:
+            xmin = 30.675714285714285 
+            xmax = 31.02357142857143 
+            text = "kawarit, " 
+        intervals [61]:
+            xmin = 31.02357142857143 
+            xmax = 31.719285714285714 
+            text = "qajqoj " 
+        intervals [62]:
+            xmin = 31.719285714285714 
+            xmax = 32.415 
+            text = "kwajakumba.” " 
+        intervals [63]:
+            xmin = 32.415 
+            xmax = 32.92 
+            text = "" 
+        intervals [64]:
+            xmin = 32.92 
+            xmax = 33.288333333333334 
+            text = "A " 
+        intervals [65]:
+            xmin = 33.288333333333334 
+            xmax = 33.656666666666666 
+            text = "mat " 
+        intervals [66]:
+            xmin = 33.656666666666666 
+            xmax = 34.025000000000006 
+            text = "taben " 
+        intervals [67]:
+            xmin = 34.025000000000006 
+            xmax = 34.39333333333334 
+            text = "narošnak " 
+        intervals [68]:
+            xmin = 34.39333333333334 
+            xmax = 34.76166666666667 
+            text = "čenčak, " 
+        intervals [69]:
+            xmin = 34.76166666666667 
+            xmax = 35.13 
+            text = "štobɨ " 
+        intervals [70]:
+            xmin = 35.13 
+            xmax = 35.498333333333335 
+            text = "tab " 
+        intervals [71]:
+            xmin = 35.498333333333335 
+            xmax = 35.86666666666667 
+            text = "ɨgɨ " 
+        intervals [72]:
+            xmin = 35.86666666666667 
+            xmax = 36.235 
+            text = "tanulemd, " 
+        intervals [73]:
+            xmin = 36.235 
+            xmax = 36.60333333333334 
+            text = "što " 
+        intervals [74]:
+            xmin = 36.60333333333334 
+            xmax = 36.97166666666667 
+            text = "urop " 
+        intervals [75]:
+            xmin = 36.97166666666667 
+            xmax = 37.34 
+            text = "kwajamənd. " 
+        intervals [76]:
+            xmin = 37.34 
+            xmax = 37.895 
+            text = "" 
+        intervals [77]:
+            xmin = 37.895 
+            xmax = 38.559000000000005 
+            text = "Mat " 
+        intervals [78]:
+            xmin = 38.559000000000005 
+            xmax = 38.891000000000005 
+            text = "čenčak: " 
+        intervals [79]:
+            xmin = 38.891000000000005 
+            xmax = 39.223000000000006 
+            text = "“A, " 
+        intervals [80]:
+            xmin = 39.223000000000006 
+            xmax = 39.887 
+            text = "taw " 
+        intervals [81]:
+            xmin = 39.887 
+            xmax = 40.551 
+            text = "bauškanmɨxɨ " 
+        intervals [82]:
+            xmin = 40.551 
+            xmax = 41.215 
+            text = "qwajakuməndaɣ.” " 
+        intervals [83]:
+            xmin = 41.215 
+            xmax = 42.16333425381943 
+            text = "" 
+        intervals [84]:
+            xmin = 42.16333425381943 
+            xmax = 42.55166666666666 
+            text = "Čaǯaj, " 
+        intervals [85]:
+            xmin = 42.55166666666666 
+            xmax = 43.355000000000004 
+            text = "kalammut " 
+        intervals [86]:
+            xmin = 43.355000000000004 
+            xmax = 43.75666666666667 
+            text = "elʼǯʼä " 
+        intervals [87]:
+            xmin = 43.75666666666667 
+            xmax = 44.15833333333333 
+            text = "šɨtə " 
+        intervals [88]:
+            xmin = 44.15833333333333 
+            xmax = 44.56 
+            text = "par. " 
+        intervals [89]:
+            xmin = 44.56 
+            xmax = 45.77 
+            text = "" 
+        intervals [90]:
+            xmin = 45.77 
+            xmax = 46.184285714285714 
+            text = "Taperʼ " 
+        intervals [91]:
+            xmin = 46.184285714285714 
+            xmax = 46.59857142857143 
+            text = "man " 
+        intervals [92]:
+            xmin = 46.59857142857143 
+            xmax = 47.01285714285714 
+            text = "üngolʼǯembap, " 
+        intervals [93]:
+            xmin = 47.01285714285714 
+            xmax = 47.42714285714286 
+            text = "mute " 
+        intervals [94]:
+            xmin = 47.42714285714286 
+            xmax = 48.25571428571429 
+            text = "nʼe " 
+        intervals [95]:
+            xmin = 48.25571428571429 
+            xmax = 48.67 
+            text = "ügla. " 
+        intervals [96]:
+            xmin = 48.67 
+            xmax = 48.78 
+            text = "" 
+        intervals [97]:
+            xmin = 48.78 
+            xmax = 49.6 
+            text = "Čaǯaj. " 
+        intervals [98]:
+            xmin = 49.6 
+            xmax = 50.29 
+            text = "" 
+        intervals [99]:
+            xmin = 50.29 
+            xmax = 51.376666666666665 
+            text = "((…)) " 
+        intervals [100]:
+            xmin = 51.376666666666665 
+            xmax = 52.46333333333333 
+            text = "meka " 
+        intervals [101]:
+            xmin = 52.46333333333333 
+            xmax = 53.55 
+            text = "nem " 
+        intervals [102]:
+            xmin = 53.55 
+            xmax = 54.63666666666667 
+            text = "kurda: " 
+        intervals [103]:
+            xmin = 54.63666666666667 
+            xmax = 55.723333333333336 
+            text = "“Qorɣa, " 
+        intervals [104]:
+            xmin = 55.723333333333336 
+            xmax = 56.81 
+            text = "tona!” " 
+        intervals [105]:
+            xmin = 56.81 
+            xmax = 57.414 
+            text = "Mat " 
+        intervals [106]:
+            xmin = 57.414 
+            xmax = 58.018 
+            text = "tabən " 
+        intervals [107]:
+            xmin = 58.018 
+            xmax = 58.622 
+            text = "barʒak: " 
+        intervals [108]:
+            xmin = 58.622 
+            xmax = 59.226 
+            text = "“Qaj " 
+        intervals [109]:
+            xmin = 59.226 
+            xmax = 59.83 
+            text = "qorɣa?” " 
+        intervals [110]:
+            xmin = 59.83 
+            xmax = 60.875 
+            text = "" 
+        intervals [111]:
+            xmin = 60.875 
+            xmax = 61.595 
+            text = "Enne " 
+        intervals [112]:
+            xmin = 61.595 
+            xmax = 62.315000000000005 
+            text = "manǯeʒäk – " 
+        intervals [113]:
+            xmin = 62.315000000000005 
+            xmax = 63.035000000000004 
+            text = "(anun) " 
+        intervals [114]:
+            xmin = 63.035000000000004 
+            xmax = 63.755 
+            text = "qorɣ, " 
+        intervals [115]:
+            xmin = 63.755 
+            xmax = 64.47500000000001 
+            text = "nɨŋga, " 
+        intervals [116]:
+            xmin = 64.47500000000001 
+            xmax = 65.19500000000001 
+            text = "miʒe " 
+        intervals [117]:
+            xmin = 65.19500000000001 
+            xmax = 65.915 
+            text = "mannɨmba. " 
+        intervals [118]:
+            xmin = 65.915 
+            xmax = 66.39 
+            text = "" 
+        intervals [119]:
+            xmin = 66.39 
+            xmax = 66.96666666666667 
+            text = "Metra, " 
+        intervals [120]:
+            xmin = 66.96666666666667 
+            xmax = 67.54333333333334 
+            text = "šɨdə " 
+        intervals [121]:
+            xmin = 67.54333333333334 
+            xmax = 68.12 
+            text = "metra, " 
+        intervals [122]:
+            xmin = 68.12 
+            xmax = 68.69666666666667 
+            text = "nagur " 
+        intervals [123]:
+            xmin = 68.69666666666667 
+            xmax = 69.27333333333333 
+            text = "metra " 
+        intervals [124]:
+            xmin = 69.27333333333333 
+            xmax = 69.85 
+            text = "čʼomb " 
+        intervals [125]:
+            xmin = 69.85 
+            xmax = 70.42666666666666 
+            text = "nɨŋga, " 
+        intervals [126]:
+            xmin = 70.42666666666666 
+            xmax = 71.00333333333333 
+            text = "miʒe " 
+        intervals [127]:
+            xmin = 71.00333333333333 
+            xmax = 71.58 
+            text = "manemba. " 
+        intervals [128]:
+            xmin = 71.58 
+            xmax = 71.888 
+            text = "" 
+        intervals [129]:
+            xmin = 71.888 
+            xmax = 72.43866666666668 
+            text = "Mat " 
+        intervals [130]:
+            xmin = 72.43866666666668 
+            xmax = 72.98933333333334 
+            text = "toʒe " 
+        intervals [131]:
+            xmin = 72.98933333333334 
+            xmax = 73.54 
+            text = "kɨčʼəwannak. " 
+        intervals [132]:
+            xmin = 73.54 
+            xmax = 73.838 
+            text = "" 
+        intervals [133]:
+            xmin = 73.838 
+            xmax = 74.346 
+            text = "Tarbak: " 
+        intervals [134]:
+            xmin = 74.346 
+            xmax = 74.854 
+            text = "“Luče " 
+        intervals [135]:
+            xmin = 74.854 
+            xmax = 75.362 
+            text = "maʒɨm " 
+        intervals [136]:
+            xmin = 75.362 
+            xmax = 75.87 
+            text = "orannɨ.” " 
+        intervals [137]:
+            xmin = 75.87 
+            xmax = 76.135 
+            text = "" 
+        intervals [138]:
+            xmin = 76.135 
+            xmax = 76.744 
+            text = "Mat " 
+        intervals [139]:
+            xmin = 76.744 
+            xmax = 77.35300000000001 
+            text = "negend " 
+        intervals [140]:
+            xmin = 77.35300000000001 
+            xmax = 77.55600000000001 
+            text = "eǯalgwak: " 
+        intervals [141]:
+            xmin = 77.55600000000001 
+            xmax = 77.75900000000002 
+            text = "“Tənat " 
+        intervals [142]:
+            xmin = 77.75900000000002 
+            xmax = 77.962 
+            text = "(kə=) " 
+        intervals [143]:
+            xmin = 77.962 
+            xmax = 78.571 
+            text = "nʼar " 
+        intervals [144]:
+            xmin = 78.571 
+            xmax = 79.18 
+            text = "taɨ " 
+        intervals [145]:
+            xmin = 79.18 
+            xmax = 79.789 
+            text = "kuralʼešpeš!” " 
+        intervals [146]:
+            xmin = 79.789 
+            xmax = 80.949 
+            text = "" 
+        intervals [147]:
+            xmin = 80.949 
+            xmax = 81.47675 
+            text = "Man " 
+        intervals [148]:
+            xmin = 81.47675 
+            xmax = 82.00450000000001 
+            text = "nem " 
+        intervals [149]:
+            xmin = 82.00450000000001 
+            xmax = 82.53225 
+            text = "kuran " 
+        intervals [150]:
+            xmin = 82.53225 
+            xmax = 83.06 
+            text = "kaʒt. " 
+        intervals [151]:
+            xmin = 83.06 
+            xmax = 83.295 
+            text = "" 
+        intervals [152]:
+            xmin = 83.295 
+            xmax = 83.816 
+            text = "A " 
+        intervals [153]:
+            xmin = 83.816 
+            xmax = 84.337 
+            text = "man " 
+        intervals [154]:
+            xmin = 84.337 
+            xmax = 84.858 
+            text = "eǯalgwaŋ: " 
+        intervals [155]:
+            xmin = 84.858 
+            xmax = 85.379 
+            text = "“Ɨg " 
+        intervals [156]:
+            xmin = 85.379 
+            xmax = 85.9 
+            text = "kaʒeš! " 
+        intervals [157]:
+            xmin = 85.9 
+            xmax = 86.616 
+            text = "Pamalenʼku " 
+        intervals [158]:
+            xmin = 86.616 
+            xmax = 87.332 
+            text = "čaǯeš!” " 
+        intervals [159]:
+            xmin = 87.332 
+            xmax = 87.875 
+            text = "" 
+        intervals [160]:
+            xmin = 87.875 
+            xmax = 88.29 
+            text = "Onek " 
+        intervals [161]:
+            xmin = 88.29 
+            xmax = 88.705 
+            text = "nɨŋgak " 
+        intervals [162]:
+            xmin = 88.705 
+            xmax = 89.12 
+            text = "taperʼ, " 
+        intervals [163]:
+            xmin = 89.12 
+            xmax = 89.535 
+            text = "mannembap, " 
+        intervals [164]:
+            xmin = 89.535 
+            xmax = 89.95 
+            text = "taben " 
+        intervals [165]:
+            xmin = 89.95 
+            xmax = 90.365 
+            text = "čenčak: " 
+        intervals [166]:
+            xmin = 90.365 
+            xmax = 90.78 
+            text = "“Tat " 
+        intervals [167]:
+            xmin = 90.78 
+            xmax = 91.195 
+            text = "kajko " 
+        intervals [168]:
+            xmin = 91.195 
+            xmax = 91.61 
+            text = "nɨka " 
+        intervals [169]:
+            xmin = 91.61 
+            xmax = 92.02499999999999 
+            text = "töhandə, " 
+        intervals [170]:
+            xmin = 92.02499999999999 
+            xmax = 92.44 
+            text = "mat " 
+        intervals [171]:
+            xmin = 92.44 
+            xmax = 92.85499999999999 
+            text = "wattond " 
+        intervals [172]:
+            xmin = 92.85499999999999 
+            xmax = 93.27 
+            text = "parond?” " 
+        intervals [173]:
+            xmin = 93.27 
+            xmax = 94.999 
+            text = "" 
+        intervals [174]:
+            xmin = 94.999 
+            xmax = 95.380625 
+            text = "Wsʼo " 
+        intervals [175]:
+            xmin = 95.380625 
+            xmax = 95.76225 
+            text = "nɨŋgaŋ, " 
+        intervals [176]:
+            xmin = 95.76225 
+            xmax = 96.143875 
+            text = "mannɨmbap, " 
+        intervals [177]:
+            xmin = 96.143875 
+            xmax = 96.5255 
+            text = "a " 
+        intervals [178]:
+            xmin = 96.5255 
+            xmax = 96.90712500000001 
+            text = "tabə " 
+        intervals [179]:
+            xmin = 96.90712500000001 
+            xmax = 97.28875000000001 
+            text = "naj " 
+        intervals [180]:
+            xmin = 97.28875000000001 
+            xmax = 97.670375 
+            text = "maʒɨm " 
+        intervals [181]:
+            xmin = 97.670375 
+            xmax = 98.052 
+            text = "mannɨmba. " 
+        intervals [182]:
+            xmin = 98.052 
+            xmax = 99.25276845429535 
+            text = "" 
+        intervals [183]:
+            xmin = 99.25276845429535 
+            xmax = 100.307 
+            text = "Lʼutka " 
+        intervals [184]:
+            xmin = 100.307 
+            xmax = 101.226 
+            text = "kuran, " 
+        intervals [185]:
+            xmin = 101.226 
+            xmax = 101.68549999999999 
+            text = "nʼar " 
+        intervals [186]:
+            xmin = 101.68549999999999 
+            xmax = 102.145 
+            text = "taɨ." 
+        intervals [187]:
+            xmin = 102.145 
+            xmax = 102.727 
+            text = "" 
+        intervals [188]:
+            xmin = 102.727 
+            xmax = 103.15023076923077 
+            text = "Mat " 
+        intervals [189]:
+            xmin = 103.15023076923077 
+            xmax = 103.57346153846154 
+            text = "taperʼ " 
+        intervals [190]:
+            xmin = 103.57346153846154 
+            xmax = 103.99669230769231 
+            text = "našaŋ " 
+        intervals [191]:
+            xmin = 103.99669230769231 
+            xmax = 104.41992307692308 
+            text = "nɨŋgak, " 
+        intervals [192]:
+            xmin = 104.41992307692308 
+            xmax = 104.84315384615385 
+            text = "naj " 
+        intervals [193]:
+            xmin = 104.84315384615385 
+            xmax = 105.26638461538462 
+            text = "üpɨǯʼäk " 
+        intervals [194]:
+            xmin = 105.26638461538462 
+            xmax = 105.68961538461538 
+            text = "aj " 
+        intervals [195]:
+            xmin = 105.68961538461538 
+            xmax = 106.11284615384615 
+            text = "manǯekwam: " 
+        intervals [196]:
+            xmin = 106.11284615384615 
+            xmax = 106.53607692307692 
+            text = "nɨŋga " 
+        intervals [197]:
+            xmin = 106.53607692307692 
+            xmax = 107.38253846153846 
+            text = "maʒɨm " 
+        intervals [198]:
+            xmin = 107.38253846153846 
+            xmax = 107.80576923076923 
+            text = "mannɨmba " 
+        intervals [199]:
+            xmin = 107.80576923076923 
+            xmax = 108.229 
+            text = "qorɣ. " 
+        intervals [200]:
+            xmin = 108.229 
+            xmax = 108.89938021902972 
+            text = "" 
+        intervals [201]:
+            xmin = 108.89938021902972 
+            xmax = 109.99533333333333 
+            text = "Mat " 
+        intervals [202]:
+            xmin = 109.99533333333333 
+            xmax = 110.55270414277135 
+            text = "taperʼ " 
+        intervals [203]:
+            xmin = 110.55270414277135 
+            xmax = 111.962 
+            text = "medraɣek, " 
+        intervals [204]:
+            xmin = 111.962 
+            xmax = 112.94533333333334 
+            text = "paneǯikwap " 
+        intervals [205]:
+            xmin = 112.94533333333334 
+            xmax = 113.92866666666667 
+            text = "nɨka " 
+        intervals [206]:
+            xmin = 113.92866666666667 
+            xmax = 114.912 
+            text = "elle " 
+        intervals [207]:
+            xmin = 114.912 
+            xmax = 115.89533333333333 
+            text = "kwella " 
+        intervals [208]:
+            xmin = 115.89533333333333 
+            xmax = 116.87866666666666 
+            text = "sʼakij, " 
+        intervals [209]:
+            xmin = 116.87866666666666 
+            xmax = 118.84533333333333 
+            text = "tarbak, " 
+        intervals [210]:
+            xmin = 118.84533333333333 
+            xmax = 119.82866666666666 
+            text = "nödəla " 
+        intervals [211]:
+            xmin = 119.82866666666666 
+            xmax = 120.812 
+            text = "əǯettəgu. " 
+        intervals [212]:
+            xmin = 120.812 
+            xmax = 121.518 
+            text = "" 
+        intervals [213]:
+            xmin = 121.518 
+            xmax = 122.12950000000001 
+            text = "Lʼutka " 
+        intervals [214]:
+            xmin = 122.12950000000001 
+            xmax = 122.741 
+            text = "naj " 
+        intervals [215]:
+            xmin = 122.741 
+            xmax = 123.35249999999999 
+            text = "kɨbɨʒok " 
+        intervals [216]:
+            xmin = 123.35249999999999 
+            xmax = 123.964 
+            text = "čʼem_to " 
+        intervals [217]:
+            xmin = 123.964 
+            xmax = 124.5755 
+            text = "kajda " 
+        intervals [218]:
+            xmin = 124.5755 
+            xmax = 125.187 
+            text = "katolgut, " 
+        intervals [219]:
+            xmin = 125.187 
+            xmax = 125.79849999999999 
+            text = "nɨka " 
+        intervals [220]:
+            xmin = 125.79849999999999 
+            xmax = 126.41 
+            text = "wes " 
+        intervals [221]:
+            xmin = 126.41 
+            xmax = 127.0215 
+            text = "tɨ " 
+        intervals [222]:
+            xmin = 127.0215 
+            xmax = 127.32724999999999 
+            text = "mɨhe, " 
+        intervals [223]:
+            xmin = 127.32724999999999 
+            xmax = 127.633 
+            text = "(pu-) " 
+        intervals [224]:
+            xmin = 127.633 
+            xmax = 128.2445 
+            text = "punurxe, " 
+        intervals [225]:
+            xmin = 128.2445 
+            xmax = 128.856 
+            text = "katolbat, " 
+        intervals [226]:
+            xmin = 128.856 
+            xmax = 129.4675 
+            text = "naj " 
+        intervals [227]:
+            xmin = 129.4675 
+            xmax = 130.079 
+            text = "kuralešpa – " 
+        intervals [228]:
+            xmin = 130.079 
+            xmax = 130.6905 
+            text = "maʒɨm " 
+        intervals [229]:
+            xmin = 130.6905 
+            xmax = 131.302 
+            text = "mannɨmba. " 
+        intervals [230]:
+            xmin = 131.302 
+            xmax = 131.552 
+            text = "" 
+        intervals [231]:
+            xmin = 131.552 
+            xmax = 131.802 
+            text = "Me " 
+        intervals [232]:
+            xmin = 131.802 
+            xmax = 132.61083333333332 
+            text = "nʼar " 
+        intervals [233]:
+            xmin = 132.61083333333332 
+            xmax = 133.41966666666667 
+            text = "čʼeres " 
+        intervals [234]:
+            xmin = 133.41966666666667 
+            xmax = 133.82408333333333 
+            text = "oːni " 
+        intervals [235]:
+            xmin = 133.82408333333333 
+            xmax = 134.2285 
+            text = "parkwaj, " 
+        intervals [236]:
+            xmin = 134.2285 
+            xmax = 135.03733333333332 
+            text = "kanak, " 
+        intervals [237]:
+            xmin = 135.03733333333332 
+            xmax = 135.84616666666668 
+            text = "“Bauška!” " 
+        intervals [238]:
+            xmin = 135.84616666666668 
+            xmax = 136.655 
+            text = "parkundaj. " 
+        intervals [239]:
+            xmin = 136.655 
+            xmax = 137.606 
+            text = "" 
+        intervals [240]:
+            xmin = 137.606 
+            xmax = 138.433 
+            text = "Potom " 
+        intervals [241]:
+            xmin = 138.433 
+            xmax = 139.26 
+            text = "taɨ " 
+        intervals [242]:
+            xmin = 139.26 
+            xmax = 140.08700000000002 
+            text = "pušlaj, " 
+        intervals [243]:
+            xmin = 140.08700000000002 
+            xmax = 140.91400000000002 
+            text = "parkwaj: " 
+        intervals [244]:
+            xmin = 140.91400000000002 
+            xmax = 141.741 
+            text = "“Bauškəː!” " 
+        intervals [245]:
+            xmin = 141.741 
+            xmax = 141.8591926342659 
+            text = "" 
+        intervals [246]:
+            xmin = 141.8591926342659 
+            xmax = 142.45116666666667 
+            text = "A " 
+        intervals [247]:
+            xmin = 142.45116666666667 
+            xmax = 142.97533333333334 
+            text = "bauška " 
+        intervals [248]:
+            xmin = 142.97533333333334 
+            xmax = 143.4995 
+            text = "čenča: " 
+        intervals [249]:
+            xmin = 143.4995 
+            xmax = 144.02366666666666 
+            text = "“Kaj " 
+        intervals [250]:
+            xmin = 144.02366666666666 
+            xmax = 144.54783333333333 
+            text = "parkwa " 
+        intervals [251]:
+            xmin = 144.54783333333333 
+            xmax = 144.93016982351367 
+            text = "načat " 
+        intervals [252]:
+            xmin = 144.93016982351367 
+            xmax = 145.31250631369397 
+            text = "taɨt?” " 
+        intervals [253]:
+            xmin = 145.31250631369397 
+            xmax = 145.692 
+            text = "" 
+        intervals [254]:
+            xmin = 145.692 
+            xmax = 146.25300000000001 
+            text = "Tʼaperʼ " 
+        intervals [255]:
+            xmin = 146.25300000000001 
+            xmax = 146.81400000000002 
+            text = "man " 
+        intervals [256]:
+            xmin = 146.81400000000002 
+            xmax = 147.375 
+            text = "Lʼutkan " 
+        intervals [257]:
+            xmin = 147.375 
+            xmax = 147.936 
+            text = "čenčak: " 
+        intervals [258]:
+            xmin = 147.936 
+            xmax = 148.497 
+            text = "“Wandol " 
+        intervals [259]:
+            xmin = 148.497 
+            xmax = 149.05800000000002 
+            text = "kajko " 
+        intervals [260]:
+            xmin = 149.05800000000002 
+            xmax = 149.619 
+            text = "nɨlʼǯik " 
+        intervals [261]:
+            xmin = 149.619 
+            xmax = 150.18 
+            text = "čʼaɣ " 
+        intervals [262]:
+            xmin = 150.18 
+            xmax = 150.741 
+            text = "čomnembat?” " 
+        intervals [263]:
+            xmin = 150.741 
+            xmax = 151.11247330423916 
+            text = "" 
+        intervals [264]:
+            xmin = 151.11247330423916 
+            xmax = 151.5634 
+            text = "A " 
+        intervals [265]:
+            xmin = 151.5634 
+            xmax = 151.89180000000002 
+            text = "man " 
+        intervals [266]:
+            xmin = 151.89180000000002 
+            xmax = 152.2202 
+            text = "neːm " 
+        intervals [267]:
+            xmin = 152.2202 
+            xmax = 152.54860000000002 
+            text = "eǯalgwa: " 
+        intervals [268]:
+            xmin = 152.54860000000002 
+            xmax = 152.877 
+            text = "“A " 
+        intervals [269]:
+            xmin = 152.877 
+            xmax = 153.2054 
+            text = "tannan " 
+        intervals [270]:
+            xmin = 153.2054 
+            xmax = 153.5338 
+            text = "naj, " 
+        intervals [271]:
+            xmin = 153.5338 
+            xmax = 153.8622 
+            text = "gawarit, " 
+        intervals [272]:
+            xmin = 153.8622 
+            xmax = 154.19060000000002 
+            text = "wandol " 
+        intervals [273]:
+            xmin = 154.19060000000002 
+            xmax = 154.70578618688728 
+            text = "čaɣejja.” " 
+        intervals [274]:
+            xmin = 154.70578618688728 
+            xmax = 154.889 
+            text = "" 
+        intervals [275]:
+            xmin = 154.889 
+            xmax = 155.258 
+            text = "No, " 
+        intervals [276]:
+            xmin = 155.258 
+            xmax = 155.627 
+            text = "mi " 
+        intervals [277]:
+            xmin = 155.627 
+            xmax = 155.996 
+            text = "uruk " 
+        intervals [278]:
+            xmin = 155.996 
+            xmax = 156.365 
+            text = "kɨčwannaj. " 
+        intervals [279]:
+            xmin = 156.365 
+            xmax = 156.779 
+            text = "" 
+        intervals [280]:
+            xmin = 156.779 
+            xmax = 157.2975 
+            text = "Bauškan " 
+        intervals [281]:
+            xmin = 157.2975 
+            xmax = 157.816 
+            text = "töwaj. " 
+        intervals [282]:
+            xmin = 157.816 
+            xmax = 158.27666666666667 
+            text = "Bauška: " 
+        intervals [283]:
+            xmin = 158.27666666666667 
+            xmax = 158.73733333333334 
+            text = "“Qaj " 
+        intervals [284]:
+            xmin = 158.73733333333334 
+            xmax = 159.198 
+            text = "katawan?” " 
+        intervals [285]:
+            xmin = 159.198 
+            xmax = 159.455 
+            text = "" 
+        intervals [286]:
+            xmin = 159.455 
+            xmax = 159.96083333333334 
+            text = "“Manǯaɣ " 
+        intervals [287]:
+            xmin = 159.96083333333334 
+            xmax = 160.4666666666667 
+            text = "maːtə, " 
+        intervals [288]:
+            xmin = 160.4666666666667 
+            xmax = 160.97250000000003 
+            text = "(na) " 
+        intervals [289]:
+            xmin = 160.97250000000003 
+            xmax = 161.47833333333335 
+            text = "qorɣom " 
+        intervals [290]:
+            xmin = 161.47833333333335 
+            xmax = 161.98416666666668 
+            text = "ombi " 
+        intervals [291]:
+            xmin = 161.98416666666668 
+            xmax = 162.49 
+            text = "konǯerxaj. " 
+        intervals [292]:
+            xmin = 162.49 
+            xmax = 163.006 
+            text = "" 
+        intervals [293]:
+            xmin = 163.006 
+            xmax = 163.578 
+            text = "Šinni " 
+        intervals [294]:
+            xmin = 163.578 
+            xmax = 164.15 
+            text = "taw " 
+        intervals [295]:
+            xmin = 164.15 
+            xmax = 164.722 
+            text = "kurdaj.” " 
+        intervals [296]:
+            xmin = 164.722 
+            xmax = 165.215 
+            text = "" 
+        intervals [297]:
+            xmin = 165.215 
+            xmax = 166.02006666666668 
+            text = "Bauška " 
+        intervals [298]:
+            xmin = 166.02006666666668 
+            xmax = 166.4226 
+            text = "nɨlʼǯik " 
+        intervals [299]:
+            xmin = 166.4226 
+            xmax = 166.82513333333333 
+            text = "eːǯalgwa: " 
+        intervals [300]:
+            xmin = 166.82513333333333 
+            xmax = 167.22766666666666 
+            text = "“A " 
+        intervals [301]:
+            xmin = 167.22766666666666 
+            xmax = 167.6302 
+            text = "nau " 
+        intervals [302]:
+            xmin = 167.6302 
+            xmax = 168.03273333333334 
+            text = "qaj, " 
+        intervals [303]:
+            xmin = 168.03273333333334 
+            xmax = 168.43526666666665 
+            text = "gawarit, " 
+        intervals [304]:
+            xmin = 168.43526666666665 
+            xmax = 168.8378 
+            text = "awəntə " 
+        intervals [305]:
+            xmin = 168.8378 
+            xmax = 169.24033333333333 
+            text = "man " 
+        intervals [306]:
+            xmin = 169.24033333333333 
+            xmax = 169.64286666666666 
+            text = "sap " 
+        intervals [307]:
+            xmin = 169.64286666666666 
+            xmax = 170.0454 
+            text = "nɨka " 
+        intervals [308]:
+            xmin = 170.0454 
+            xmax = 170.4479333333333 
+            text = "tadembat, " 
+        intervals [309]:
+            xmin = 170.4479333333333 
+            xmax = 170.85046666666665 
+            text = "wattət " 
+        intervals [310]:
+            xmin = 170.85046666666665 
+            xmax = 171.37902462752356 
+            text = "xalʼkən?” " 
+        intervals [311]:
+            xmin = 171.37902462752356 
+            xmax = 172.045 
+            text = "" 
+    item [2]:
+        class = "IntervalTier" 
+        name = "YIF|a|ge" 
+        xmin = 0 
+        xmax = 172.045 
+        intervals: size = 310 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.37 
+            text = "" 
+        intervals [2]:
+            xmin = 1.37 
+            xmax = 2.124 
+            text = "I.NOM" 
+        intervals [3]:
+            xmin = 2.124 
+            xmax = 2.5010000000000003 
+            text = "daughter-GEN" 
+        intervals [4]:
+            xmin = 2.5010000000000003 
+            xmax = 2.878 
+            text = "with" 
+        intervals [5]:
+            xmin = 2.878 
+            xmax = 3.6319999999999997 
+            text = "berry-TRL" 
+        intervals [6]:
+            xmin = 3.6319999999999997 
+            xmax = 4.385999999999999 
+            text = "go.away-PST-1DU" 
+        intervals [7]:
+            xmin = 4.385999999999999 
+            xmax = 4.763 
+            text = "Lyudmila-GEN" 
+        intervals [8]:
+            xmin = 4.763 
+            xmax = 5.14 
+            text = "with" 
+        intervals [9]:
+            xmin = 5.14 
+            xmax = 6.226631228930135 
+            text = "" 
+        intervals [10]:
+            xmin = 6.226631228930135 
+            xmax = 6.80375 
+            text = "but" 
+        intervals [11]:
+            xmin = 6.80375 
+            xmax = 7.3925 
+            text = "we.DU.NOM" 
+        intervals [12]:
+            xmin = 7.3925 
+            xmax = 7.686875000000001 
+            text = "set.out-1DU" 
+        intervals [13]:
+            xmin = 7.686875000000001 
+            xmax = 7.98125 
+            text = "%%" 
+        intervals [14]:
+            xmin = 7.98125 
+            xmax = 8.57 
+            text = "%%" 
+        intervals [15]:
+            xmin = 8.57 
+            xmax = 8.59 
+            text = "" 
+        intervals [16]:
+            xmin = 8.59 
+            xmax = 9.04 
+            text = "but" 
+        intervals [17]:
+            xmin = 9.04 
+            xmax = 9.49 
+            text = "grandmother.[NOM]" 
+        intervals [18]:
+            xmin = 9.49 
+            xmax = 9.94 
+            text = "Warwara.[NOM]" 
+        intervals [19]:
+            xmin = 9.94 
+            xmax = 10.389999999999999 
+            text = "there-ADV.LOC" 
+        intervals [20]:
+            xmin = 10.389999999999999 
+            xmax = 10.84 
+            text = "" 
+        intervals [21]:
+            xmin = 10.84 
+            xmax = 11.29 
+            text = "live-PST-3DU.S" 
+        intervals [22]:
+            xmin = 11.29 
+            xmax = 12.055 
+            text = "" 
+        intervals [23]:
+            xmin = 12.055 
+            xmax = 12.6625 
+            text = "on.foot" 
+        intervals [24]:
+            xmin = 12.6625 
+            xmax = 13.27 
+            text = "go.away-PST-1DU" 
+        intervals [25]:
+            xmin = 13.27 
+            xmax = 13.685 
+            text = "" 
+        intervals [26]:
+            xmin = 13.685 
+            xmax = 14.268571428571429 
+            text = "now" 
+        intervals [27]:
+            xmin = 14.268571428571429 
+            xmax = 14.852142857142857 
+            text = "come-CO-1DU" 
+        intervals [28]:
+            xmin = 14.852142857142857 
+            xmax = 15.435714285714285 
+            text = "grandmother.[NOM]" 
+        intervals [29]:
+            xmin = 15.435714285714285 
+            xmax = 16.019285714285715 
+            text = "Warwara.[NOM]" 
+        intervals [30]:
+            xmin = 16.019285714285715 
+            xmax = 16.602857142857143 
+            text = "NEG.EX-CO-3DU.S" 
+        intervals [31]:
+            xmin = 16.602857142857143 
+            xmax = 17.18642857142857 
+            text = "on" 
+        intervals [32]:
+            xmin = 17.18642857142857 
+            xmax = 17.77 
+            text = "station.LOC" 
+        intervals [33]:
+            xmin = 17.77 
+            xmax = 18.045 
+            text = "" 
+        intervals [34]:
+            xmin = 18.045 
+            xmax = 18.5465 
+            text = "but" 
+        intervals [35]:
+            xmin = 18.5465 
+            xmax = 19.048000000000002 
+            text = "I.NOM" 
+        intervals [36]:
+            xmin = 19.048000000000002 
+            xmax = 19.549500000000002 
+            text = "Lyudka-ALL" 
+        intervals [37]:
+            xmin = 19.549500000000002 
+            xmax = 20.051000000000002 
+            text = "say-1SG.S" 
+        intervals [38]:
+            xmin = 20.051000000000002 
+            xmax = 20.552500000000002 
+            text = "look-IMP.2SG.S" 
+        intervals [39]:
+            xmin = 20.552500000000002 
+            xmax = 21.054000000000002 
+            text = "here" 
+        intervals [40]:
+            xmin = 21.054000000000002 
+            xmax = 21.5555 
+            text = "go.away-OPT-1DU" 
+        intervals [41]:
+            xmin = 21.5555 
+            xmax = 21.80625 
+            text = "here" 
+        intervals [42]:
+            xmin = 21.80625 
+            xmax = 22.057 
+            text = "this" 
+        intervals [43]:
+            xmin = 22.057 
+            xmax = 22.5585 
+            text = "side-PROL" 
+        intervals [44]:
+            xmin = 22.5585 
+            xmax = 23.06 
+            text = "go.away-OPT-1DU" 
+        intervals [45]:
+            xmin = 23.06 
+            xmax = 23.5475 
+            text = "here" 
+        intervals [46]:
+            xmin = 23.5475 
+            xmax = 24.035 
+            text = "maybe" 
+        intervals [47]:
+            xmin = 24.035 
+            xmax = 24.5225 
+            text = "berry.[NOM]" 
+        intervals [48]:
+            xmin = 24.5225 
+            xmax = 25.01 
+            text = "find-OPT-1DU-OPT" 
+        intervals [49]:
+            xmin = 25.01 
+            xmax = 25.39 
+            text = "" 
+        intervals [50]:
+            xmin = 25.39 
+            xmax = 26.023333333333333 
+            text = "now" 
+        intervals [51]:
+            xmin = 26.023333333333333 
+            xmax = 26.656666666666666 
+            text = "depart-1DU" 
+        intervals [52]:
+            xmin = 26.656666666666666 
+            xmax = 27.29 
+            text = "run-1DU" 
+        intervals [53]:
+            xmin = 27.29 
+            xmax = 27.545 
+            text = "" 
+        intervals [54]:
+            xmin = 27.545 
+            xmax = 28.240714285714287 
+            text = "but" 
+        intervals [55]:
+            xmin = 28.240714285714287 
+            xmax = 28.93642857142857 
+            text = "Lyudka.[NOM]" 
+        intervals [56]:
+            xmin = 28.93642857142857 
+            xmax = 29.63214285714286 
+            text = "I.ALL" 
+        intervals [57]:
+            xmin = 29.63214285714286 
+            xmax = 29.980000000000004 
+            text = "say.[3SG.S]" 
+        intervals [58]:
+            xmin = 29.980000000000004 
+            xmax = 30.327857142857145 
+            text = "say.3SG" 
+        intervals [59]:
+            xmin = 30.327857142857145 
+            xmax = 30.675714285714285 
+            text = "here" 
+        intervals [60]:
+            xmin = 30.675714285714285 
+            xmax = 31.02357142857143 
+            text = "say.3SG" 
+        intervals [61]:
+            xmin = 31.02357142857143 
+            xmax = 31.719285714285714 
+            text = "what-%%" 
+        intervals [62]:
+            xmin = 31.719285714285714 
+            xmax = 32.415 
+            text = "go-HAB-PST.NAR.[3SG.S]" 
+        intervals [63]:
+            xmin = 32.415 
+            xmax = 32.92 
+            text = "" 
+        intervals [64]:
+            xmin = 32.92 
+            xmax = 33.288333333333334 
+            text = "but" 
+        intervals [65]:
+            xmin = 33.288333333333334 
+            xmax = 33.656666666666666 
+            text = "I.NOM" 
+        intervals [66]:
+            xmin = 33.656666666666666 
+            xmax = 34.025000000000006 
+            text = "(s)he-EP-ILL2" 
+        intervals [67]:
+            xmin = 34.025000000000006 
+            xmax = 34.39333333333334 
+            text = "deliberately-ADVZ" 
+        intervals [68]:
+            xmin = 34.39333333333334 
+            xmax = 34.76166666666667 
+            text = "say-1SG.S" 
+        intervals [69]:
+            xmin = 34.76166666666667 
+            xmax = 35.13 
+            text = "that" 
+        intervals [70]:
+            xmin = 35.13 
+            xmax = 35.498333333333335 
+            text = "(s)he.[NOM]" 
+        intervals [71]:
+            xmin = 35.498333333333335 
+            xmax = 35.86666666666667 
+            text = "NEG.IMP" 
+        intervals [72]:
+            xmin = 35.86666666666667 
+            xmax = 36.235 
+            text = "know-OPT-IMP.3SG" 
+        intervals [73]:
+            xmin = 36.235 
+            xmax = 36.60333333333334 
+            text = "that" 
+        intervals [74]:
+            xmin = 36.60333333333334 
+            xmax = 36.97166666666667 
+            text = "wild.animal.[NOM]" 
+        intervals [75]:
+            xmin = 36.97166666666667 
+            xmax = 37.34 
+            text = "go-DRV-INFER.[3SG.S]" 
+        intervals [76]:
+            xmin = 37.34 
+            xmax = 37.895 
+            text = "" 
+        intervals [77]:
+            xmin = 37.895 
+            xmax = 38.559000000000005 
+            text = "I.NOM" 
+        intervals [78]:
+            xmin = 38.559000000000005 
+            xmax = 38.891000000000005 
+            text = "say-1SG.S" 
+        intervals [79]:
+            xmin = 38.891000000000005 
+            xmax = 39.223000000000006 
+            text = "ah" 
+        intervals [80]:
+            xmin = 39.223000000000006 
+            xmax = 39.887 
+            text = "this.[NOM]" 
+        intervals [81]:
+            xmin = 39.887 
+            xmax = 40.551 
+            text = "grandmother-%%-1SG-DU.[NOM]" 
+        intervals [82]:
+            xmin = 40.551 
+            xmax = 41.215 
+            text = "go-HAB-DUR-INFER-3DU.S" 
+        intervals [83]:
+            xmin = 41.215 
+            xmax = 42.16333425381943 
+            text = "" 
+        intervals [84]:
+            xmin = 42.16333425381943 
+            xmax = 42.55166666666666 
+            text = "run-1DU" 
+        intervals [85]:
+            xmin = 42.55166666666666 
+            xmax = 43.355000000000004 
+            text = "%%" 
+        intervals [86]:
+            xmin = 43.355000000000004 
+            xmax = 43.75666666666667 
+            text = "grandfather.[NOM]" 
+        intervals [87]:
+            xmin = 43.75666666666667 
+            xmax = 44.15833333333333 
+            text = "two" 
+        intervals [88]:
+            xmin = 44.15833333333333 
+            xmax = 44.56 
+            text = "time.[NOM]" 
+        intervals [89]:
+            xmin = 44.56 
+            xmax = 45.77 
+            text = "" 
+        intervals [90]:
+            xmin = 45.77 
+            xmax = 46.184285714285714 
+            text = "now" 
+        intervals [91]:
+            xmin = 46.184285714285714 
+            xmax = 46.59857142857143 
+            text = "I.NOM" 
+        intervals [92]:
+            xmin = 46.59857142857143 
+            xmax = 47.01285714285714 
+            text = "hear-PFV-PST.NAR-1SG.O" 
+        intervals [93]:
+            xmin = 47.01285714285714 
+            xmax = 47.42714285714286 
+            text = "%%" 
+        intervals [94]:
+            xmin = 47.42714285714286 
+            xmax = 48.25571428571429 
+            text = "NEG" 
+        intervals [95]:
+            xmin = 48.25571428571429 
+            xmax = 48.67 
+            text = "pull.away-FUT.[3SG.S]" 
+        intervals [96]:
+            xmin = 48.67 
+            xmax = 48.78 
+            text = "" 
+        intervals [97]:
+            xmin = 48.78 
+            xmax = 49.6 
+            text = "run-1DU" 
+        intervals [98]:
+            xmin = 49.6 
+            xmax = 51.376666666666665 
+            text = "" 
+        intervals [99]:
+            xmin = 51.376666666666665 
+            xmax = 52.46333333333333 
+            text = "I.ALL" 
+        intervals [100]:
+            xmin = 52.46333333333333 
+            xmax = 53.55 
+            text = "daughter-1SG" 
+        intervals [101]:
+            xmin = 53.55 
+            xmax = 54.63666666666667 
+            text = "come.running.[3SG.S]" 
+        intervals [102]:
+            xmin = 54.63666666666667 
+            xmax = 55.723333333333336 
+            text = "bear.[NOM]" 
+        intervals [103]:
+            xmin = 55.723333333333336 
+            xmax = 56.81 
+            text = "there" 
+        intervals [104]:
+            xmin = 56.81 
+            xmax = 57.414 
+            text = "I.NOM" 
+        intervals [105]:
+            xmin = 57.414 
+            xmax = 58.018 
+            text = "(s)he-ALL" 
+        intervals [106]:
+            xmin = 58.018 
+            xmax = 58.622 
+            text = "%cry-1SG.S" 
+        intervals [107]:
+            xmin = 58.622 
+            xmax = 59.226 
+            text = "what.[NOM]" 
+        intervals [108]:
+            xmin = 59.226 
+            xmax = 59.83 
+            text = "bear.[NOM]" 
+        intervals [109]:
+            xmin = 59.83 
+            xmax = 60.875 
+            text = "" 
+        intervals [110]:
+            xmin = 60.875 
+            xmax = 61.595 
+            text = "up" 
+        intervals [111]:
+            xmin = 61.595 
+            xmax = 62.315000000000005 
+            text = "look-IPFV3-1SG.S" 
+        intervals [112]:
+            xmin = 62.315000000000005 
+            xmax = 63.035000000000004 
+            text = "%%" 
+        intervals [113]:
+            xmin = 63.035000000000004 
+            xmax = 63.755 
+            text = "bear.[NOM]" 
+        intervals [114]:
+            xmin = 63.755 
+            xmax = 64.47500000000001 
+            text = "stand-HAB.[3SG.S]" 
+        intervals [115]:
+            xmin = 64.47500000000001 
+            xmax = 65.19500000000001 
+            text = "we.DU.ACC" 
+        intervals [116]:
+            xmin = 65.19500000000001 
+            xmax = 65.915 
+            text = "look-PST.NAR.[3SG.S]" 
+        intervals [117]:
+            xmin = 65.915 
+            xmax = 66.39 
+            text = "" 
+        intervals [118]:
+            xmin = 66.39 
+            xmax = 66.96666666666667 
+            text = "meter.[NOM]" 
+        intervals [119]:
+            xmin = 66.96666666666667 
+            xmax = 67.54333333333334 
+            text = "two" 
+        intervals [120]:
+            xmin = 67.54333333333334 
+            xmax = 68.12 
+            text = "meter.[NOM]" 
+        intervals [121]:
+            xmin = 68.12 
+            xmax = 68.69666666666667 
+            text = "three" 
+        intervals [122]:
+            xmin = 68.69666666666667 
+            xmax = 69.27333333333333 
+            text = "meter.[NOM]" 
+        intervals [123]:
+            xmin = 69.27333333333333 
+            xmax = 69.85 
+            text = "during" 
+        intervals [124]:
+            xmin = 69.85 
+            xmax = 70.42666666666666 
+            text = "stand-HAB.[3SG.S]" 
+        intervals [125]:
+            xmin = 70.42666666666666 
+            xmax = 71.00333333333333 
+            text = "we.DU.ACC" 
+        intervals [126]:
+            xmin = 71.00333333333333 
+            xmax = 71.58 
+            text = "look-PST.NAR.[3SG.S]" 
+        intervals [127]:
+            xmin = 71.58 
+            xmax = 71.888 
+            text = "" 
+        intervals [128]:
+            xmin = 71.888 
+            xmax = 72.43866666666668 
+            text = "I.NOM" 
+        intervals [129]:
+            xmin = 72.43866666666668 
+            xmax = 72.98933333333334 
+            text = "also" 
+        intervals [130]:
+            xmin = 72.98933333333334 
+            xmax = 73.54 
+            text = "get.angry-CO-1SG.S" 
+        intervals [131]:
+            xmin = 73.54 
+            xmax = 73.838 
+            text = "" 
+        intervals [132]:
+            xmin = 73.838 
+            xmax = 74.346 
+            text = "think-PST.NAR-1SG.S" 
+        intervals [133]:
+            xmin = 74.346 
+            xmax = 74.854 
+            text = "better" 
+        intervals [134]:
+            xmin = 74.854 
+            xmax = 75.362 
+            text = "I.ACC" 
+        intervals [135]:
+            xmin = 75.362 
+            xmax = 75.87 
+            text = "catch-CO.[3SG.S]" 
+        intervals [136]:
+            xmin = 75.87 
+            xmax = 76.135 
+            text = "" 
+        intervals [137]:
+            xmin = 76.135 
+            xmax = 76.744 
+            text = "I.NOM" 
+        intervals [138]:
+            xmin = 76.744 
+            xmax = 77.35300000000001 
+            text = "daughter-ILL.3SG" 
+        intervals [139]:
+            xmin = 77.35300000000001 
+            xmax = 77.55600000000001 
+            text = "say-RES-HAB-CO-1SG.S" 
+        intervals [140]:
+            xmin = 77.55600000000001 
+            xmax = 77.75900000000002 
+            text = "%%" 
+        intervals [141]:
+            xmin = 77.75900000000002 
+            xmax = 77.962 
+            text = "" 
+        intervals [142]:
+            xmin = 77.962 
+            xmax = 78.571 
+            text = "swamp.[NOM]" 
+        intervals [143]:
+            xmin = 78.571 
+            xmax = 79.18 
+            text = "on.other.side" 
+        intervals [144]:
+            xmin = 79.18 
+            xmax = 79.789 
+            text = "run-EP-RES-IPFV2-IMP.2SG.S" 
+        intervals [145]:
+            xmin = 79.789 
+            xmax = 80.949 
+            text = "" 
+        intervals [146]:
+            xmin = 80.949 
+            xmax = 81.47675 
+            text = "I.NOM" 
+        intervals [147]:
+            xmin = 81.47675 
+            xmax = 82.00450000000001 
+            text = "daughter-1SG" 
+        intervals [148]:
+            xmin = 82.00450000000001 
+            xmax = 82.53225 
+            text = "run-EP-CO.[3SG.S]" 
+        intervals [149]:
+            xmin = 82.53225 
+            xmax = 83.06 
+            text = "at.a.run" 
+        intervals [150]:
+            xmin = 83.06 
+            xmax = 83.295 
+            text = "" 
+        intervals [151]:
+            xmin = 83.295 
+            xmax = 83.816 
+            text = "but" 
+        intervals [152]:
+            xmin = 83.816 
+            xmax = 84.337 
+            text = "I.NOM" 
+        intervals [153]:
+            xmin = 84.337 
+            xmax = 84.858 
+            text = "say-RES-HAB-CO-1SG.S" 
+        intervals [154]:
+            xmin = 84.858 
+            xmax = 85.379 
+            text = "NEG.IMP" 
+        intervals [155]:
+            xmin = 85.379 
+            xmax = 85.9 
+            text = "run-IMP.2SG.S" 
+        intervals [156]:
+            xmin = 85.9 
+            xmax = 86.616 
+            text = "slowly" 
+        intervals [157]:
+            xmin = 86.616 
+            xmax = 87.332 
+            text = "go-IMP.2SG.S" 
+        intervals [158]:
+            xmin = 87.332 
+            xmax = 87.875 
+            text = "" 
+        intervals [159]:
+            xmin = 87.875 
+            xmax = 88.29 
+            text = "oneself.1SG" 
+        intervals [160]:
+            xmin = 88.29 
+            xmax = 88.705 
+            text = "stand-HAB-1SG.S" 
+        intervals [161]:
+            xmin = 88.705 
+            xmax = 89.12 
+            text = "now" 
+        intervals [162]:
+            xmin = 89.12 
+            xmax = 89.535 
+            text = "look-DUR-1SG.O" 
+        intervals [163]:
+            xmin = 89.535 
+            xmax = 89.95 
+            text = "(s)he-EP-ILL2" 
+        intervals [164]:
+            xmin = 89.95 
+            xmax = 90.365 
+            text = "say-1SG.S" 
+        intervals [165]:
+            xmin = 90.365 
+            xmax = 90.78 
+            text = "you.SG.NOM" 
+        intervals [166]:
+            xmin = 90.78 
+            xmax = 91.195 
+            text = "what-TRL" 
+        intervals [167]:
+            xmin = 91.195 
+            xmax = 91.61 
+            text = "here" 
+        intervals [168]:
+            xmin = 91.61 
+            xmax = 92.02499999999999 
+            text = "come-PST-2SG.S" 
+        intervals [169]:
+            xmin = 92.02499999999999 
+            xmax = 92.44 
+            text = "I.NOM" 
+        intervals [170]:
+            xmin = 92.44 
+            xmax = 92.85499999999999 
+            text = "road-GEN-3SG" 
+        intervals [171]:
+            xmin = 92.85499999999999 
+            xmax = 93.27 
+            text = "top-ILL" 
+        intervals [172]:
+            xmin = 93.27 
+            xmax = 94.999 
+            text = "" 
+        intervals [173]:
+            xmin = 94.999 
+            xmax = 95.380625 
+            text = "all.[3SG.S]" 
+        intervals [174]:
+            xmin = 95.380625 
+            xmax = 95.76225 
+            text = "stand-HAB-1SG.S" 
+        intervals [175]:
+            xmin = 95.76225 
+            xmax = 96.143875 
+            text = "look-DUR-1SG.O" 
+        intervals [176]:
+            xmin = 96.143875 
+            xmax = 96.5255 
+            text = "but" 
+        intervals [177]:
+            xmin = 96.5255 
+            xmax = 96.90712500000001 
+            text = "(s)he.[NOM]" 
+        intervals [178]:
+            xmin = 96.90712500000001 
+            xmax = 97.28875000000001 
+            text = "also" 
+        intervals [179]:
+            xmin = 97.28875000000001 
+            xmax = 97.670375 
+            text = "I.ACC" 
+        intervals [180]:
+            xmin = 97.670375 
+            xmax = 98.052 
+            text = "look-PST.NAR.[3SG.S]" 
+        intervals [181]:
+            xmin = 98.052 
+            xmax = 99.25276845429535 
+            text = "" 
+        intervals [182]:
+            xmin = 99.25276845429535 
+            xmax = 100.307 
+            text = "Lyudka.[NOM]" 
+        intervals [183]:
+            xmin = 100.307 
+            xmax = 101.226 
+            text = "run-EP-CO.[3SG.S]" 
+        intervals [184]:
+            xmin = 101.226 
+            xmax = 101.68549999999999 
+            text = "swamp.[NOM]" 
+        intervals [185]:
+            xmin = 101.68549999999999 
+            xmax = 102.145 
+            text = "on.other.side" 
+        intervals [186]:
+            xmin = 102.145 
+            xmax = 102.727 
+            text = "" 
+        intervals [187]:
+            xmin = 102.727 
+            xmax = 103.15023076923077 
+            text = "I.NOM" 
+        intervals [188]:
+            xmin = 103.15023076923077 
+            xmax = 103.57346153846154 
+            text = "now" 
+        intervals [189]:
+            xmin = 103.57346153846154 
+            xmax = 103.99669230769231 
+            text = "so.much" 
+        intervals [190]:
+            xmin = 103.99669230769231 
+            xmax = 104.41992307692308 
+            text = "stand-HAB-1SG.S" 
+        intervals [191]:
+            xmin = 104.41992307692308 
+            xmax = 104.84315384615385 
+            text = "also" 
+        intervals [192]:
+            xmin = 104.84315384615385 
+            xmax = 105.26638461538462 
+            text = "depart-1SG.S" 
+        intervals [193]:
+            xmin = 105.26638461538462 
+            xmax = 105.68961538461538 
+            text = "again" 
+        intervals [194]:
+            xmin = 105.68961538461538 
+            xmax = 106.11284615384615 
+            text = "look-HAB-CO-1SG.O" 
+        intervals [195]:
+            xmin = 106.11284615384615 
+            xmax = 106.53607692307692 
+            text = "stand-HAB.[3SG.S]" 
+        intervals [196]:
+            xmin = 106.53607692307692 
+            xmax = 107.38253846153846 
+            text = "I.ACC" 
+        intervals [197]:
+            xmin = 107.38253846153846 
+            xmax = 107.80576923076923 
+            text = "look-PST.NAR.[3SG.S]" 
+        intervals [198]:
+            xmin = 107.80576923076923 
+            xmax = 108.229 
+            text = "bear.[NOM]" 
+        intervals [199]:
+            xmin = 108.229 
+            xmax = 108.89938021902972 
+            text = "" 
+        intervals [200]:
+            xmin = 108.89938021902972 
+            xmax = 109.99533333333333 
+            text = "I.NOM" 
+        intervals [201]:
+            xmin = 109.99533333333333 
+            xmax = 110.55270414277135 
+            text = "now" 
+        intervals [202]:
+            xmin = 110.55270414277135 
+            xmax = 111.962 
+            text = "catch.up-HAB-1SG.S" 
+        intervals [203]:
+            xmin = 111.962 
+            xmax = 112.94533333333334 
+            text = "put-EP-IPFV3-HAB-CO-1SG.O" 
+        intervals [204]:
+            xmin = 112.94533333333334 
+            xmax = 113.92866666666667 
+            text = "here" 
+        intervals [205]:
+            xmin = 113.92866666666667 
+            xmax = 114.912 
+            text = "down" 
+        intervals [206]:
+            xmin = 114.912 
+            xmax = 115.89533333333333 
+            text = "birch-PL.[NOM]" 
+        intervals [207]:
+            xmin = 115.89533333333333 
+            xmax = 116.87866666666666 
+            text = "all.kinds.of" 
+        intervals [208]:
+            xmin = 116.87866666666666 
+            xmax = 118.84533333333333 
+            text = "think-PST.NAR-1SG.S" 
+        intervals [209]:
+            xmin = 118.84533333333333 
+            xmax = 119.82866666666666 
+            text = "drive-CVB" 
+        intervals [210]:
+            xmin = 119.82866666666666 
+            xmax = 120.812 
+            text = "ignite-INF" 
+        intervals [211]:
+            xmin = 120.812 
+            xmax = 121.518 
+            text = "" 
+        intervals [212]:
+            xmin = 121.518 
+            xmax = 122.12950000000001 
+            text = "Lyudka.[NOM]" 
+        intervals [213]:
+            xmin = 122.12950000000001 
+            xmax = 122.741 
+            text = "also" 
+        intervals [214]:
+            xmin = 122.741 
+            xmax = 123.35249999999999 
+            text = "small-ADVZ" 
+        intervals [215]:
+            xmin = 123.35249999999999 
+            xmax = 123.964 
+            text = "" 
+        intervals [216]:
+            xmin = 123.964 
+            xmax = 124.5755 
+            text = "what-INDEF" 
+        intervals [217]:
+            xmin = 124.5755 
+            xmax = 125.187 
+            text = "scratch-HAB-3SG.O" 
+        intervals [218]:
+            xmin = 125.187 
+            xmax = 125.79849999999999 
+            text = "here" 
+        intervals [219]:
+            xmin = 125.79849999999999 
+            xmax = 126.41 
+            text = "all" 
+        intervals [220]:
+            xmin = 126.41 
+            xmax = 127.0215 
+            text = "this" 
+        intervals [221]:
+            xmin = 127.0215 
+            xmax = 127.32724999999999 
+            text = "something-INSTR" 
+        intervals [222]:
+            xmin = 127.32724999999999 
+            xmax = 127.633 
+            text = "" 
+        intervals [223]:
+            xmin = 127.633 
+            xmax = 128.2445 
+            text = "mushroom-INSTR" 
+        intervals [224]:
+            xmin = 128.2445 
+            xmax = 128.856 
+            text = "scratch-DUR-3SG.O" 
+        intervals [225]:
+            xmin = 128.856 
+            xmax = 129.4675 
+            text = "also" 
+        intervals [226]:
+            xmin = 129.4675 
+            xmax = 130.079 
+            text = "run-EP-RES-IPFV2.[3SG.S]" 
+        intervals [227]:
+            xmin = 130.079 
+            xmax = 130.6905 
+            text = "I.ACC" 
+        intervals [228]:
+            xmin = 130.6905 
+            xmax = 131.302 
+            text = "look-PST.NAR.[3SG.S]" 
+        intervals [229]:
+            xmin = 131.302 
+            xmax = 131.552 
+            text = "" 
+        intervals [230]:
+            xmin = 131.552 
+            xmax = 131.802 
+            text = "we.DU.NOM" 
+        intervals [231]:
+            xmin = 131.802 
+            xmax = 132.61083333333332 
+            text = "swamp.[NOM]" 
+        intervals [232]:
+            xmin = 132.61083333333332 
+            xmax = 133.41966666666667 
+            text = "through" 
+        intervals [233]:
+            xmin = 133.41966666666667 
+            xmax = 133.82408333333333 
+            text = "oneself.1DU" 
+        intervals [234]:
+            xmin = 133.82408333333333 
+            xmax = 134.2285 
+            text = "shout-CO-1DU" 
+        intervals [235]:
+            xmin = 134.2285 
+            xmax = 135.03733333333332 
+            text = "dog.[NOM]" 
+        intervals [236]:
+            xmin = 135.03733333333332 
+            xmax = 135.84616666666668 
+            text = "grandmother.[NOM]" 
+        intervals [237]:
+            xmin = 135.84616666666668 
+            xmax = 136.655 
+            text = "shout-INFER-1DU" 
+        intervals [238]:
+            xmin = 136.655 
+            xmax = 137.606 
+            text = "" 
+        intervals [239]:
+            xmin = 137.606 
+            xmax = 138.433 
+            text = "then" 
+        intervals [240]:
+            xmin = 138.433 
+            xmax = 139.26 
+            text = "on.other.side" 
+        intervals [241]:
+            xmin = 139.26 
+            xmax = 140.08700000000002 
+            text = "%%-1DU" 
+        intervals [242]:
+            xmin = 140.08700000000002 
+            xmax = 140.91400000000002 
+            text = "shout-CO-1DU" 
+        intervals [243]:
+            xmin = 140.91400000000002 
+            xmax = 141.741 
+            text = "grandmother-VOC" 
+        intervals [244]:
+            xmin = 141.741 
+            xmax = 141.8591926342659 
+            text = "" 
+        intervals [245]:
+            xmin = 141.8591926342659 
+            xmax = 142.45116666666667 
+            text = "but" 
+        intervals [246]:
+            xmin = 142.45116666666667 
+            xmax = 142.97533333333334 
+            text = "grandmother.[NOM]" 
+        intervals [247]:
+            xmin = 142.97533333333334 
+            xmax = 143.4995 
+            text = "say.[3SG.S]" 
+        intervals [248]:
+            xmin = 143.4995 
+            xmax = 144.02366666666666 
+            text = "what.[NOM]" 
+        intervals [249]:
+            xmin = 144.02366666666666 
+            xmax = 144.54783333333333 
+            text = "shout-CO.[3SG.S]" 
+        intervals [250]:
+            xmin = 144.54783333333333 
+            xmax = 144.93016982351367 
+            text = "there-ADV.LOC" 
+        intervals [251]:
+            xmin = 144.93016982351367 
+            xmax = 145.31250631369397 
+            text = "on.other.side-ADV.LOC" 
+        intervals [252]:
+            xmin = 145.31250631369397 
+            xmax = 145.692 
+            text = "" 
+        intervals [253]:
+            xmin = 145.692 
+            xmax = 146.25300000000001 
+            text = "now" 
+        intervals [254]:
+            xmin = 146.25300000000001 
+            xmax = 146.81400000000002 
+            text = "I.NOM" 
+        intervals [255]:
+            xmin = 146.81400000000002 
+            xmax = 147.375 
+            text = "Lyudka-ALL" 
+        intervals [256]:
+            xmin = 147.375 
+            xmax = 147.936 
+            text = "say-1SG.S" 
+        intervals [257]:
+            xmin = 147.936 
+            xmax = 148.497 
+            text = "face-2SG" 
+        intervals [258]:
+            xmin = 148.497 
+            xmax = 149.05800000000002 
+            text = "what-TRL" 
+        intervals [259]:
+            xmin = 149.05800000000002 
+            xmax = 149.619 
+            text = "such-ADVZ" 
+        intervals [260]:
+            xmin = 149.619 
+            xmax = 150.18 
+            text = "white" 
+        intervals [261]:
+            xmin = 150.18 
+            xmax = 150.741 
+            text = "%%-PST.NAR-3SG.O" 
+        intervals [262]:
+            xmin = 150.741 
+            xmax = 151.11247330423916 
+            text = "" 
+        intervals [263]:
+            xmin = 151.11247330423916 
+            xmax = 151.5634 
+            text = "but" 
+        intervals [264]:
+            xmin = 151.5634 
+            xmax = 151.89180000000002 
+            text = "I.GEN" 
+        intervals [265]:
+            xmin = 151.89180000000002 
+            xmax = 152.2202 
+            text = "daughter-1SG" 
+        intervals [266]:
+            xmin = 152.2202 
+            xmax = 152.54860000000002 
+            text = "say-HAB-CO.[3SG.S]" 
+        intervals [267]:
+            xmin = 152.54860000000002 
+            xmax = 152.877 
+            text = "but" 
+        intervals [268]:
+            xmin = 152.877 
+            xmax = 153.2054 
+            text = "you.SG-ADES" 
+        intervals [269]:
+            xmin = 153.2054 
+            xmax = 153.5338 
+            text = "also" 
+        intervals [270]:
+            xmin = 153.5338 
+            xmax = 153.8622 
+            text = "" 
+        intervals [271]:
+            xmin = 153.8622 
+            xmax = 154.19060000000002 
+            text = "face-2SG" 
+        intervals [272]:
+            xmin = 154.19060000000002 
+            xmax = 154.70578618688728 
+            text = "white-EP-VBLZ-CO.[3SG.S]" 
+        intervals [273]:
+            xmin = 154.70578618688728 
+            xmax = 154.889 
+            text = "" 
+        intervals [274]:
+            xmin = 154.889 
+            xmax = 155.258 
+            text = "well" 
+        intervals [275]:
+            xmin = 155.258 
+            xmax = 155.627 
+            text = "we.DU.NOM" 
+        intervals [276]:
+            xmin = 155.627 
+            xmax = 155.996 
+            text = "force-EP-ADVZ" 
+        intervals [277]:
+            xmin = 155.996 
+            xmax = 156.365 
+            text = "get.angry-CO-1DU" 
+        intervals [278]:
+            xmin = 156.365 
+            xmax = 156.779 
+            text = "" 
+        intervals [279]:
+            xmin = 156.779 
+            xmax = 157.2975 
+            text = "grandmother-ALL" 
+        intervals [280]:
+            xmin = 157.2975 
+            xmax = 157.816 
+            text = "come-CO-1DU" 
+        intervals [281]:
+            xmin = 157.816 
+            xmax = 158.27666666666667 
+            text = "grandmother.[NOM]" 
+        intervals [282]:
+            xmin = 158.27666666666667 
+            xmax = 158.73733333333334 
+            text = "what.[NOM]" 
+        intervals [283]:
+            xmin = 158.73733333333334 
+            xmax = 159.198 
+            text = "happen-CO-3SG.S" 
+        intervals [284]:
+            xmin = 159.198 
+            xmax = 159.455 
+            text = "" 
+        intervals [285]:
+            xmin = 159.455 
+            xmax = 159.96083333333334 
+            text = "run-1DU" 
+        intervals [286]:
+            xmin = 159.96083333333334 
+            xmax = 160.4666666666667 
+            text = "I.NOM" 
+        intervals [287]:
+            xmin = 160.4666666666667 
+            xmax = 160.97250000000003 
+            text = "this " 
+        intervals [288]:
+            xmin = 160.97250000000003 
+            xmax = 161.47833333333335 
+            text = "bear-ACC" 
+        intervals [289]:
+            xmin = 161.47833333333335 
+            xmax = 161.98416666666668 
+            text = "suddenly" 
+        intervals [290]:
+            xmin = 161.98416666666668 
+            xmax = 162.49 
+            text = "see-CO-1DU" 
+        intervals [291]:
+            xmin = 162.49 
+            xmax = 163.006 
+            text = "" 
+        intervals [292]:
+            xmin = 163.006 
+            xmax = 163.578 
+            text = "two.1DU " 
+        intervals [293]:
+            xmin = 163.578 
+            xmax = 164.15 
+            text = "this.[NOM]" 
+        intervals [294]:
+            xmin = 164.15 
+            xmax = 164.722 
+            text = "run-IPFV-1DU" 
+        intervals [295]:
+            xmin = 164.722 
+            xmax = 165.215 
+            text = "" 
+        intervals [296]:
+            xmin = 165.215 
+            xmax = 166.02006666666668 
+            text = "grandmother.[NOM]" 
+        intervals [297]:
+            xmin = 166.02006666666668 
+            xmax = 166.4226 
+            text = "such-ADVZ" 
+        intervals [298]:
+            xmin = 166.4226 
+            xmax = 166.82513333333333 
+            text = "say-HAB-CO.[3SG.S]" 
+        intervals [299]:
+            xmin = 166.82513333333333 
+            xmax = 167.22766666666666 
+            text = "but" 
+        intervals [300]:
+            xmin = 167.22766666666666 
+            xmax = 167.6302 
+            text = "this" 
+        intervals [301]:
+            xmin = 167.6302 
+            xmax = 168.03273333333334 
+            text = "what.[NOM]" 
+        intervals [302]:
+            xmin = 168.03273333333334 
+            xmax = 168.43526666666665 
+            text = "" 
+        intervals [303]:
+            xmin = 168.43526666666665 
+            xmax = 168.8378 
+            text = "mother-ILL" 
+        intervals [304]:
+            xmin = 168.8378 
+            xmax = 169.24033333333333 
+            text = "I.NOM" 
+        intervals [305]:
+            xmin = 169.24033333333333 
+            xmax = 169.64286666666666 
+            text = "%%" 
+        intervals [306]:
+            xmin = 169.64286666666666 
+            xmax = 170.0454 
+            text = "here" 
+        intervals [307]:
+            xmin = 170.0454 
+            xmax = 170.4479333333333 
+            text = "bring-PST.NAR-3SG.O" 
+        intervals [308]:
+            xmin = 170.4479333333333 
+            xmax = 170.85046666666665 
+            text = "road-GEN" 
+        intervals [309]:
+            xmin = 170.85046666666665 
+            xmax = 171.37902462752356 
+            text = "%%" 
+        intervals [310]:
+            xmin = 171.37902462752356 
+            xmax = 172.045 
+            text = "" 
+    item [3]:
+        class = "IntervalTier" 
+        name = "YIF|a|ts" 
+        xmin = 0 
+        xmax = 172.045 
+        intervals: size = 80 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2 
+            text = "Kanduk qorɣop qonǯerxat. " 
+        intervals [2]:
+            xmin = 1.2 
+            xmax = 1.37 
+            text = "" 
+        intervals [3]:
+            xmin = 1.37 
+            xmax = 5.14 
+            text = "Mat näːn opte čobərtko kwessaj, Lüdmilan opte. " 
+        intervals [4]:
+            xmin = 5.14 
+            xmax = 6.226631228930135 
+            text = "" 
+        intervals [5]:
+            xmin = 6.226631228930135 
+            xmax = 8.57 
+            text = "A mi abɨʒej kat qwen. " 
+        intervals [6]:
+            xmin = 8.57 
+            xmax = 8.59 
+            text = "" 
+        intervals [7]:
+            xmin = 8.59 
+            xmax = 11.29 
+            text = "A bauška Warwara načʼan (wa-) wargɨhaɣ. " 
+        intervals [8]:
+            xmin = 11.29 
+            xmax = 12.055 
+            text = "" 
+        intervals [9]:
+            xmin = 12.055 
+            xmax = 13.27 
+            text = "Üdenne qwessaj. " 
+        intervals [10]:
+            xmin = 13.27 
+            xmax = 13.685 
+            text = "" 
+        intervals [11]:
+            xmin = 13.685 
+            xmax = 17.77 
+            text = "Taper töwaj – bauška Warwara nʼejtuwaɣ na astanopte. " 
+        intervals [12]:
+            xmin = 17.77 
+            xmax = 18.045 
+            text = "" 
+        intervals [13]:
+            xmin = 18.045 
+            xmax = 23.06 
+            text = "A mat Lʼutkan čenčak: “Manǯoɣa – tawčitə qwellaj, tawčit taw belekaɨt qwellaj. " 
+        intervals [14]:
+            xmin = 23.06 
+            xmax = 25.01 
+            text = "Tɨndə, moʒet, čobər qolajhe.” " 
+        intervals [15]:
+            xmin = 25.01 
+            xmax = 25.39 
+            text = "" 
+        intervals [16]:
+            xmin = 25.39 
+            xmax = 27.29 
+            text = "Taper üpɨǯäj, čaːǯaj. " 
+        intervals [17]:
+            xmin = 27.29 
+            xmax = 27.545 
+            text = "" 
+        intervals [18]:
+            xmin = 27.545 
+            xmax = 32.415 
+            text = "A Lʼutka meka čenča, kawarit: “Tɨndə, kawarit, qajqoj kwajakumba.” " 
+        intervals [19]:
+            xmin = 32.415 
+            xmax = 32.92 
+            text = "" 
+        intervals [20]:
+            xmin = 32.92 
+            xmax = 37.34 
+            text = "A mat taben narošnak čenčak, štobɨ tab ɨgɨ tanulemd, što urop kwajamənd. " 
+        intervals [21]:
+            xmin = 37.34 
+            xmax = 37.895 
+            text = "" 
+        intervals [22]:
+            xmin = 37.895 
+            xmax = 41.215 
+            text = "Mat čenčak: “A, taw bauškanmɨxɨ qwajakuməndaɣ.”" 
+        intervals [23]:
+            xmin = 41.215 
+            xmax = 42.16333425381943 
+            text = "" 
+        intervals [24]:
+            xmin = 42.16333425381943 
+            xmax = 44.56 
+            text = "Čaǯaj, kalammut elʼǯʼä šɨtə par. " 
+        intervals [25]:
+            xmin = 44.56 
+            xmax = 45.77 
+            text = "" 
+        intervals [26]:
+            xmin = 45.77 
+            xmax = 48.67 
+            text = "Taperʼ man üngolʼǯembap, mute nʼe ügla. " 
+        intervals [27]:
+            xmin = 48.67 
+            xmax = 48.78 
+            text = "" 
+        intervals [28]:
+            xmin = 48.78 
+            xmax = 49.6 
+            text = "Čaǯaj. " 
+        intervals [29]:
+            xmin = 49.6 
+            xmax = 50.29 
+            text = "" 
+        intervals [30]:
+            xmin = 50.29 
+            xmax = 56.81 
+            text = "((…)) meka nem kurda: “Qorɣa, tona!” " 
+        intervals [31]:
+            xmin = 56.81 
+            xmax = 59.83 
+            text = "Mat tabən barʒak: “Qaj qorɣa?” " 
+        intervals [32]:
+            xmin = 59.83 
+            xmax = 60.875 
+            text = "" 
+        intervals [33]:
+            xmin = 60.875 
+            xmax = 65.915 
+            text = "Enne manǯeʒäk – (anun) qorɣ, nɨŋga, miʒe mannɨmba. " 
+        intervals [34]:
+            xmin = 65.915 
+            xmax = 66.39 
+            text = "" 
+        intervals [35]:
+            xmin = 66.39 
+            xmax = 71.58 
+            text = "Metra, šɨdə metra, nagur metra čʼomb nɨŋga, miʒe manemba. " 
+        intervals [36]:
+            xmin = 71.58 
+            xmax = 71.888 
+            text = "" 
+        intervals [37]:
+            xmin = 71.888 
+            xmax = 73.54 
+            text = "Mat toʒe kɨčʼəwannak. " 
+        intervals [38]:
+            xmin = 73.54 
+            xmax = 73.838 
+            text = "" 
+        intervals [39]:
+            xmin = 73.838 
+            xmax = 75.87 
+            text = "Tarbak: “Luče maʒɨm orannɨ.”" 
+        intervals [40]:
+            xmin = 75.87 
+            xmax = 76.135 
+            text = "" 
+        intervals [41]:
+            xmin = 76.135 
+            xmax = 79.789 
+            text = "Mat negend eǯalgwak: “Tənat (kə=) nʼar taɨ kuralʼešpeš!” " 
+        intervals [42]:
+            xmin = 79.789 
+            xmax = 80.949 
+            text = "" 
+        intervals [43]:
+            xmin = 80.949 
+            xmax = 83.06 
+            text = "Man nem kuran kaʒt. " 
+        intervals [44]:
+            xmin = 83.06 
+            xmax = 83.295 
+            text = "" 
+        intervals [45]:
+            xmin = 83.295 
+            xmax = 85.9 
+            text = "A man eǯalgwaŋ: “Ɨg kaʒeš! " 
+        intervals [46]:
+            xmin = 85.9 
+            xmax = 87.332 
+            text = "Pamalenʼku čaǯeš!” " 
+        intervals [47]:
+            xmin = 87.332 
+            xmax = 87.875 
+            text = "" 
+        intervals [48]:
+            xmin = 87.875 
+            xmax = 93.27 
+            text = "Onek nɨŋgak taperʼ, mannəmbap, taben čenčak: “Tat kajko nɨka töhandə, mat wattond parond?” " 
+        intervals [49]:
+            xmin = 93.27 
+            xmax = 94.999 
+            text = "" 
+        intervals [50]:
+            xmin = 94.999 
+            xmax = 98.052 
+            text = "Wsʼo nɨŋgaŋ, mannɨmbap, a tabə naj maʒɨm mannɨmba. " 
+        intervals [51]:
+            xmin = 98.052 
+            xmax = 99.25276845429535 
+            text = "" 
+        intervals [52]:
+            xmin = 99.25276845429535 
+            xmax = 102.145 
+            text = "Lʼutka kuran, nʼar taɨ. " 
+        intervals [53]:
+            xmin = 102.145 
+            xmax = 102.727 
+            text = "" 
+        intervals [54]:
+            xmin = 102.727 
+            xmax = 108.229 
+            text = "Mat taperʼ našaŋ nɨŋgak, naj üpɨǯʼäk aj manǯekwam: nɨŋga maʒɨm mannɨmba qorɣ. " 
+        intervals [55]:
+            xmin = 108.229 
+            xmax = 108.89938021902972 
+            text = "" 
+        intervals [56]:
+            xmin = 108.89938021902972 
+            xmax = 120.812 
+            text = "Mat taperʼ medraɣek, paneǯikwap nɨka elle kwella sʼakij, tarbak, nödəla əǯettəgu. " 
+        intervals [57]:
+            xmin = 120.812 
+            xmax = 121.518 
+            text = "" 
+        intervals [58]:
+            xmin = 121.518 
+            xmax = 131.302 
+            text = "Lʼutka naj kɨbɨʒok čʼem_to kajda katolgut, nɨka wes tɨ mɨhe, (pu-) punurxe, katolbat, naj kuralešpa – maʒɨm mannɨmba. " 
+        intervals [59]:
+            xmin = 131.302 
+            xmax = 131.552 
+            text = "" 
+        intervals [60]:
+            xmin = 131.552 
+            xmax = 136.655 
+            text = "Me nʼar čʼeres oːni parkwaj, kanak, “Bauška!” parkundaj. " 
+        intervals [61]:
+            xmin = 136.655 
+            xmax = 137.606 
+            text = "" 
+        intervals [62]:
+            xmin = 137.606 
+            xmax = 141.741 
+            text = "Potom taɨ pušlaj, parkwaj: “Bauškəː!” " 
+        intervals [63]:
+            xmin = 141.741 
+            xmax = 141.8591926342659 
+            text = "" 
+        intervals [64]:
+            xmin = 141.8591926342659 
+            xmax = 145.31250631369397 
+            text = "A bauška čenča: “Kaj parkwa načat taɨt?” " 
+        intervals [65]:
+            xmin = 145.31250631369397 
+            xmax = 145.692 
+            text = "" 
+        intervals [66]:
+            xmin = 145.692 
+            xmax = 150.741 
+            text = "Tʼaperʼ man Lʼutkan čenčak: “Wandol kajko nɨlʼǯik čʼaɣ čomnembat?”" 
+        intervals [67]:
+            xmin = 150.741 
+            xmax = 151.11247330423916 
+            text = "" 
+        intervals [68]:
+            xmin = 151.11247330423916 
+            xmax = 154.70578618688728 
+            text = "A man neːm eǯalgwa: “A tannan naj, gawarit, wandol čaɣejja.”" 
+        intervals [69]:
+            xmin = 154.70578618688728 
+            xmax = 154.889 
+            text = "" 
+        intervals [70]:
+            xmin = 154.889 
+            xmax = 156.365 
+            text = "No, mi uruk kɨčwannaj. " 
+        intervals [71]:
+            xmin = 156.365 
+            xmax = 156.779 
+            text = "" 
+        intervals [72]:
+            xmin = 156.779 
+            xmax = 157.816 
+            text = "Bauškan töwaj. " 
+        intervals [73]:
+            xmin = 157.816 
+            xmax = 159.198 
+            text = "Bauška: “Qaj katawan?”" 
+        intervals [74]:
+            xmin = 159.198 
+            xmax = 159.455 
+            text = "" 
+        intervals [75]:
+            xmin = 159.455 
+            xmax = 162.49 
+            text = "“Manǯaɣ maːtə, (na) qorɣom ombi konǯerxaj. " 
+        intervals [76]:
+            xmin = 162.49 
+            xmax = 163.006 
+            text = "" 
+        intervals [77]:
+            xmin = 163.006 
+            xmax = 164.722 
+            text = "Šinni taw kurdaj.”" 
+        intervals [78]:
+            xmin = 164.722 
+            xmax = 165.215 
+            text = "" 
+        intervals [79]:
+            xmin = 165.215 
+            xmax = 171.37902462752356 
+            text = "Bauška nɨlʼǯik eːǯalgwa: “A nau kaj, gawarit, awəntə man sap nɨka tadembat, wattət xalʼkən?”" 
+        intervals [80]:
+            xmin = 171.37902462752356 
+            xmax = 172.045 
+            text = "" 
+    item [4]:
+        class = "IntervalTier" 
+        name = "YIF|a|fe" 
+        xmin = 0 
+        xmax = 172.045 
+        intervals: size = 80 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2 
+            text = "How we saw a bear." 
+        intervals [2]:
+            xmin = 1.2 
+            xmax = 1.37 
+            text = "" 
+        intervals [3]:
+            xmin = 1.37 
+            xmax = 5.14 
+            text = "My daughter Lyudmila and I went to pick berries." 
+        intervals [4]:
+            xmin = 5.14 
+            xmax = 6.226631228930135 
+            text = "" 
+        intervals [5]:
+            xmin = 6.226631228930135 
+            xmax = 8.57 
+            text = "We set out (?)." 
+        intervals [6]:
+            xmin = 8.57 
+            xmax = 8.59 
+            text = "" 
+        intervals [7]:
+            xmin = 8.59 
+            xmax = 11.29 
+            text = "And grandma Varvara lived there (together with someone)." 
+        intervals [8]:
+            xmin = 11.29 
+            xmax = 12.055 
+            text = "" 
+        intervals [9]:
+            xmin = 12.055 
+            xmax = 13.27 
+            text = "We went on foot." 
+        intervals [10]:
+            xmin = 13.27 
+            xmax = 13.685 
+            text = "" 
+        intervals [11]:
+            xmin = 13.685 
+            xmax = 17.77 
+            text = "Then we arrived – grandma Varvara (and someone) are not there at the stop." 
+        intervals [12]:
+            xmin = 17.77 
+            xmax = 18.045 
+            text = "" 
+        intervals [13]:
+            xmin = 18.045 
+            xmax = 23.06 
+            text = "I say to Lyudka: “Look, we’ll go here, we’ll go by this side." 
+        intervals [14]:
+            xmin = 23.06 
+            xmax = 25.01 
+            text = "Here, maybe we’ll find berries.”" 
+        intervals [15]:
+            xmin = 25.01 
+            xmax = 25.39 
+            text = "" 
+        intervals [16]:
+            xmin = 25.39 
+            xmax = 27.29 
+            text = "We set out. We’re walking." 
+        intervals [17]:
+            xmin = 27.29 
+            xmax = 27.545 
+            text = "" 
+        intervals [18]:
+            xmin = 27.545 
+            xmax = 32.415 
+            text = "And Lyudka says to me: “Somebody walked here before us.”" 
+        intervals [19]:
+            xmin = 32.415 
+            xmax = 32.92 
+            text = "" 
+        intervals [20]:
+            xmin = 32.92 
+            xmax = 37.34 
+            text = "And I tell her on purpose, so she wouldn’t know that it was a bear." 
+        intervals [21]:
+            xmin = 37.34 
+            xmax = 37.895 
+            text = "" 
+        intervals [22]:
+            xmin = 37.895 
+            xmax = 41.215 
+            text = "I tell her: “Grandmas [=Grandma with someone] were here.”" 
+        intervals [23]:
+            xmin = 41.215 
+            xmax = 42.16333425381943 
+            text = "" 
+        intervals [24]:
+            xmin = 42.16333425381943 
+            xmax = 44.56 
+            text = "We walk, and a bear (?) twice." 
+        intervals [25]:
+            xmin = 44.56 
+            xmax = 45.77 
+            text = "" 
+        intervals [26]:
+            xmin = 45.77 
+            xmax = 48.67 
+            text = "Now I listen so that it wouldn’t take (us?)." 
+        intervals [27]:
+            xmin = 48.67 
+            xmax = 48.78 
+            text = "" 
+        intervals [28]:
+            xmin = 48.78 
+            xmax = 49.6 
+            text = "We walk." 
+        intervals [29]:
+            xmin = 49.6 
+            xmax = 50.29 
+            text = "" 
+        intervals [30]:
+            xmin = 50.29 
+            xmax = 56.81 
+            text = "My daughter runs to me: “A bear, there!”" 
+        intervals [31]:
+            xmin = 56.81 
+            xmax = 59.83 
+            text = "I (cry?) to her: “What, a bear?!”" 
+        intervals [32]:
+            xmin = 59.83 
+            xmax = 60.875 
+            text = "" 
+        intervals [33]:
+            xmin = 60.875 
+            xmax = 65.915 
+            text = "I looked up – truly, there is a bear standing there, looking at us." 
+        intervals [34]:
+            xmin = 65.915 
+            xmax = 66.39 
+            text = "" 
+        intervals [35]:
+            xmin = 66.39 
+            xmax = 71.58 
+            text = "A meter, two meters, three meters away, looking at us." 
+        intervals [36]:
+            xmin = 71.58 
+            xmax = 71.888 
+            text = "" 
+        intervals [37]:
+            xmin = 71.888 
+            xmax = 73.54 
+            text = "I got scared too." 
+        intervals [38]:
+            xmin = 73.54 
+            xmax = 73.838 
+            text = "" 
+        intervals [39]:
+            xmin = 73.838 
+            xmax = 75.87 
+            text = "I’m thinking: “It better get me.”" 
+        intervals [40]:
+            xmin = 75.87 
+            xmax = 76.135 
+            text = "" 
+        intervals [41]:
+            xmin = 76.135 
+            xmax = 79.789 
+            text = "I tell my daughter: “Run on the other side of the swamp!”" 
+        intervals [42]:
+            xmin = 79.789 
+            xmax = 80.949 
+            text = "" 
+        intervals [43]:
+            xmin = 80.949 
+            xmax = 83.06 
+            text = "My daughter ran away running." 
+        intervals [44]:
+            xmin = 83.06 
+            xmax = 83.295 
+            text = "" 
+        intervals [45]:
+            xmin = 83.295 
+            xmax = 85.9 
+            text = "And I say: “Don’t run!" 
+        intervals [46]:
+            xmin = 85.9 
+            xmax = 87.332 
+            text = "Go slowly!”" 
+        intervals [47]:
+            xmin = 87.332 
+            xmax = 87.875 
+            text = "" 
+        intervals [48]:
+            xmin = 87.875 
+            xmax = 93.27 
+            text = "I’m standing there, looking, telling the bear: “Why did you come here, crossing my way?”" 
+        intervals [49]:
+            xmin = 93.27 
+            xmax = 94.999 
+            text = "" 
+        intervals [50]:
+            xmin = 94.999 
+            xmax = 98.052 
+            text = "I’m standing, looking, and it is looking at me." 
+        intervals [51]:
+            xmin = 98.052 
+            xmax = 99.25276845429535 
+            text = "" 
+        intervals [52]:
+            xmin = 99.25276845429535 
+            xmax = 102.145 
+            text = "Lyudka started running, across the swamp." 
+        intervals [53]:
+            xmin = 102.145 
+            xmax = 102.727 
+            text = "" 
+        intervals [54]:
+            xmin = 102.727 
+            xmax = 108.229 
+            text = "And now I stood a long time, and I also took off and saw: the bear is standing and looking at me." 
+        intervals [55]:
+            xmin = 108.229 
+            xmax = 108.89938021902972 
+            text = "" 
+        intervals [56]:
+            xmin = 108.89938021902972 
+            xmax = 120.812 
+            text = "I’m catching up, putting some (birch bark?) here, I’m thinking, [in order to] ignite it [if the bear] hunts [us]." 
+        intervals [57]:
+            xmin = 120.812 
+            xmax = 121.518 
+            text = "" 
+        intervals [58]:
+            xmin = 121.518 
+            xmax = 131.302 
+            text = "Lyudka is also scratching something with something, here, scratching something with these, with mushrooms, she also runs, looking at me." 
+        intervals [59]:
+            xmin = 131.302 
+            xmax = 131.552 
+            text = "" 
+        intervals [60]:
+            xmin = 131.552 
+            xmax = 136.655 
+            text = "Across the swamp, we shout ourselves, (the dog?), we’re shouting: “Grandma!”." 
+        intervals [61]:
+            xmin = 136.655 
+            xmax = 137.606 
+            text = "" 
+        intervals [62]:
+            xmin = 137.606 
+            xmax = 141.741 
+            text = "Then we crossed, shouting: “Grandma!”" 
+        intervals [63]:
+            xmin = 141.741 
+            xmax = 141.8591926342659 
+            text = "" 
+        intervals [64]:
+            xmin = 141.8591926342659 
+            xmax = 145.31250631369397 
+            text = "And grandma says: “Who’s shouting there on that side?”" 
+        intervals [65]:
+            xmin = 145.31250631369397 
+            xmax = 145.692 
+            text = "" 
+        intervals [66]:
+            xmin = 145.692 
+            xmax = 150.741 
+            text = "I now say to Lyudka: “Why is your face so pale?”" 
+        intervals [67]:
+            xmin = 150.741 
+            xmax = 151.11247330423916 
+            text = "" 
+        intervals [68]:
+            xmin = 151.11247330423916 
+            xmax = 154.70578618688728 
+            text = "And my daughter says: “Your face also went pale.”" 
+        intervals [69]:
+            xmin = 154.70578618688728 
+            xmax = 154.889 
+            text = "" 
+        intervals [70]:
+            xmin = 154.889 
+            xmax = 156.365 
+            text = "Well, we got seriously scared." 
+        intervals [71]:
+            xmin = 156.365 
+            xmax = 156.779 
+            text = "" 
+        intervals [72]:
+            xmin = 156.779 
+            xmax = 157.816 
+            text = "We came to grandma’s." 
+        intervals [73]:
+            xmin = 157.816 
+            xmax = 159.198 
+            text = "Grandma: “What happened?”" 
+        intervals [74]:
+            xmin = 159.198 
+            xmax = 159.455 
+            text = "" 
+        intervals [75]:
+            xmin = 159.455 
+            xmax = 162.49 
+            text = "“We’re running home, we have just seen a bear." 
+        intervals [76]:
+            xmin = 162.49 
+            xmax = 163.006 
+            text = "" 
+        intervals [77]:
+            xmin = 163.006 
+            xmax = 164.722 
+            text = "Both of us came running.”" 
+        intervals [78]:
+            xmin = 164.722 
+            xmax = 165.215 
+            text = "" 
+        intervals [79]:
+            xmin = 165.215 
+            xmax = 171.37902462752356 
+            text = "And grandma says: “And what is this, she says, (?)?”" 
+        intervals [80]:
+            xmin = 171.37902462752356 
+            xmax = 172.045 
+            text = "" 
+    item [5]:
+        class = "IntervalTier" 
+        name = "YIF|a|ref" 
+        xmin = 0 
+        xmax = 172.045 
+        intervals: size = 80 
+        intervals [1]:
+            xmin = 0 
+            xmax = 1.2 
+            text = "YIF_196X_Bear_nar.001 (001)" 
+        intervals [2]:
+            xmin = 1.2 
+            xmax = 1.37 
+            text = "" 
+        intervals [3]:
+            xmin = 1.37 
+            xmax = 5.14 
+            text = "YIF_196X_Bear_nar.002 (002)" 
+        intervals [4]:
+            xmin = 5.14 
+            xmax = 6.226631228930135 
+            text = "" 
+        intervals [5]:
+            xmin = 6.226631228930135 
+            xmax = 8.57 
+            text = "YIF_196X_Bear_nar.003 (003)" 
+        intervals [6]:
+            xmin = 8.57 
+            xmax = 8.59 
+            text = "" 
+        intervals [7]:
+            xmin = 8.59 
+            xmax = 11.29 
+            text = "YIF_196X_Bear_nar.004 (004)" 
+        intervals [8]:
+            xmin = 11.29 
+            xmax = 12.055 
+            text = "" 
+        intervals [9]:
+            xmin = 12.055 
+            xmax = 13.27 
+            text = "YIF_196X_Bear_nar.005 (005)" 
+        intervals [10]:
+            xmin = 13.27 
+            xmax = 13.685 
+            text = "" 
+        intervals [11]:
+            xmin = 13.685 
+            xmax = 17.77 
+            text = "YIF_196X_Bear_nar.006 (006)" 
+        intervals [12]:
+            xmin = 17.77 
+            xmax = 18.045 
+            text = "" 
+        intervals [13]:
+            xmin = 18.045 
+            xmax = 23.06 
+            text = "YIF_196X_Bear_nar.007 (007)" 
+        intervals [14]:
+            xmin = 23.06 
+            xmax = 25.01 
+            text = "YIF_196X_Bear_nar.008 (008)" 
+        intervals [15]:
+            xmin = 25.01 
+            xmax = 25.39 
+            text = "" 
+        intervals [16]:
+            xmin = 25.39 
+            xmax = 27.29 
+            text = "YIF_196X_Bear_nar.009 (009)" 
+        intervals [17]:
+            xmin = 27.29 
+            xmax = 27.545 
+            text = "" 
+        intervals [18]:
+            xmin = 27.545 
+            xmax = 32.415 
+            text = "YIF_196X_Bear_nar.010 (010)" 
+        intervals [19]:
+            xmin = 32.415 
+            xmax = 32.92 
+            text = "" 
+        intervals [20]:
+            xmin = 32.92 
+            xmax = 37.34 
+            text = "YIF_196X_Bear_nar.011 (011)" 
+        intervals [21]:
+            xmin = 37.34 
+            xmax = 37.895 
+            text = "" 
+        intervals [22]:
+            xmin = 37.895 
+            xmax = 41.215 
+            text = "YIF_196X_Bear_nar.012 (012)" 
+        intervals [23]:
+            xmin = 41.215 
+            xmax = 42.16333425381943 
+            text = "" 
+        intervals [24]:
+            xmin = 42.16333425381943 
+            xmax = 44.56 
+            text = "YIF_196X_Bear_nar.013 (013)" 
+        intervals [25]:
+            xmin = 44.56 
+            xmax = 45.77 
+            text = "" 
+        intervals [26]:
+            xmin = 45.77 
+            xmax = 48.67 
+            text = "YIF_196X_Bear_nar.014 (014)" 
+        intervals [27]:
+            xmin = 48.67 
+            xmax = 48.78 
+            text = "" 
+        intervals [28]:
+            xmin = 48.78 
+            xmax = 49.6 
+            text = "YIF_196X_Bear_nar.015 (015)" 
+        intervals [29]:
+            xmin = 49.6 
+            xmax = 50.29 
+            text = "" 
+        intervals [30]:
+            xmin = 50.29 
+            xmax = 56.81 
+            text = "YIF_196X_Bear_nar.016 (016)" 
+        intervals [31]:
+            xmin = 56.81 
+            xmax = 59.83 
+            text = "YIF_196X_Bear_nar.017 (017)" 
+        intervals [32]:
+            xmin = 59.83 
+            xmax = 60.875 
+            text = "" 
+        intervals [33]:
+            xmin = 60.875 
+            xmax = 65.915 
+            text = "YIF_196X_Bear_nar.018 (018)" 
+        intervals [34]:
+            xmin = 65.915 
+            xmax = 66.39 
+            text = "" 
+        intervals [35]:
+            xmin = 66.39 
+            xmax = 71.58 
+            text = "YIF_196X_Bear_nar.019 (019)" 
+        intervals [36]:
+            xmin = 71.58 
+            xmax = 71.888 
+            text = "" 
+        intervals [37]:
+            xmin = 71.888 
+            xmax = 73.54 
+            text = "YIF_196X_Bear_nar.020 (020)" 
+        intervals [38]:
+            xmin = 73.54 
+            xmax = 73.838 
+            text = "" 
+        intervals [39]:
+            xmin = 73.838 
+            xmax = 75.87 
+            text = "YIF_196X_Bear_nar.021 (021)" 
+        intervals [40]:
+            xmin = 75.87 
+            xmax = 76.135 
+            text = "" 
+        intervals [41]:
+            xmin = 76.135 
+            xmax = 79.789 
+            text = "YIF_196X_Bear_nar.022 (022)" 
+        intervals [42]:
+            xmin = 79.789 
+            xmax = 80.949 
+            text = "" 
+        intervals [43]:
+            xmin = 80.949 
+            xmax = 83.06 
+            text = "YIF_196X_Bear_nar.023 (023)" 
+        intervals [44]:
+            xmin = 83.06 
+            xmax = 83.295 
+            text = "" 
+        intervals [45]:
+            xmin = 83.295 
+            xmax = 85.9 
+            text = "YIF_196X_Bear_nar.024 (024)" 
+        intervals [46]:
+            xmin = 85.9 
+            xmax = 87.332 
+            text = "YIF_196X_Bear_nar.025 (025)" 
+        intervals [47]:
+            xmin = 87.332 
+            xmax = 87.875 
+            text = "" 
+        intervals [48]:
+            xmin = 87.875 
+            xmax = 93.27 
+            text = "YIF_196X_Bear_nar.026 (026)" 
+        intervals [49]:
+            xmin = 93.27 
+            xmax = 94.999 
+            text = "" 
+        intervals [50]:
+            xmin = 94.999 
+            xmax = 98.052 
+            text = "YIF_196X_Bear_nar.027 (027)" 
+        intervals [51]:
+            xmin = 98.052 
+            xmax = 99.25276845429535 
+            text = "" 
+        intervals [52]:
+            xmin = 99.25276845429535 
+            xmax = 102.145 
+            text = "YIF_196X_Bear_nar.028 (028)" 
+        intervals [53]:
+            xmin = 102.145 
+            xmax = 102.727 
+            text = "" 
+        intervals [54]:
+            xmin = 102.727 
+            xmax = 108.229 
+            text = "YIF_196X_Bear_nar.029 (029)" 
+        intervals [55]:
+            xmin = 108.229 
+            xmax = 108.89938021902972 
+            text = "" 
+        intervals [56]:
+            xmin = 108.89938021902972 
+            xmax = 120.812 
+            text = "YIF_196X_Bear_nar.030 (030)" 
+        intervals [57]:
+            xmin = 120.812 
+            xmax = 121.518 
+            text = "" 
+        intervals [58]:
+            xmin = 121.518 
+            xmax = 131.302 
+            text = "YIF_196X_Bear_nar.031 (031)" 
+        intervals [59]:
+            xmin = 131.302 
+            xmax = 131.552 
+            text = "" 
+        intervals [60]:
+            xmin = 131.552 
+            xmax = 136.655 
+            text = "YIF_196X_Bear_nar.032 (032)" 
+        intervals [61]:
+            xmin = 136.655 
+            xmax = 137.606 
+            text = "" 
+        intervals [62]:
+            xmin = 137.606 
+            xmax = 141.741 
+            text = "YIF_196X_Bear_nar.033 (033)" 
+        intervals [63]:
+            xmin = 141.741 
+            xmax = 141.8591926342659 
+            text = "" 
+        intervals [64]:
+            xmin = 141.8591926342659 
+            xmax = 145.31250631369397 
+            text = "YIF_196X_Bear_nar.034 (034)" 
+        intervals [65]:
+            xmin = 145.31250631369397 
+            xmax = 145.692 
+            text = "" 
+        intervals [66]:
+            xmin = 145.692 
+            xmax = 150.741 
+            text = "YIF_196X_Bear_nar.035 (035)" 
+        intervals [67]:
+            xmin = 150.741 
+            xmax = 151.11247330423916 
+            text = "" 
+        intervals [68]:
+            xmin = 151.11247330423916 
+            xmax = 154.70578618688728 
+            text = "YIF_196X_Bear_nar.036 (036)" 
+        intervals [69]:
+            xmin = 154.70578618688728 
+            xmax = 154.889 
+            text = "" 
+        intervals [70]:
+            xmin = 154.889 
+            xmax = 156.365 
+            text = "YIF_196X_Bear_nar.037 (037)" 
+        intervals [71]:
+            xmin = 156.365 
+            xmax = 156.779 
+            text = "" 
+        intervals [72]:
+            xmin = 156.779 
+            xmax = 157.816 
+            text = "YIF_196X_Bear_nar.038 (038)" 
+        intervals [73]:
+            xmin = 157.816 
+            xmax = 159.198 
+            text = "YIF_196X_Bear_nar.039 (039)" 
+        intervals [74]:
+            xmin = 159.198 
+            xmax = 159.455 
+            text = "" 
+        intervals [75]:
+            xmin = 159.455 
+            xmax = 162.49 
+            text = "YIF_196X_Bear_nar.040 (040)" 
+        intervals [76]:
+            xmin = 162.49 
+            xmax = 163.006 
+            text = "" 
+        intervals [77]:
+            xmin = 163.006 
+            xmax = 164.722 
+            text = "YIF_196X_Bear_nar.041 (041)" 
+        intervals [78]:
+            xmin = 164.722 
+            xmax = 165.215 
+            text = "" 
+        intervals [79]:
+            xmin = 165.215 
+            xmax = 171.37902462752356 
+            text = "YIF_196X_Bear_nar.042 (042)" 
+        intervals [80]:
+            xmin = 171.37902462752356 
+            xmax = 172.045 
+            text = "" 
+    item [6]:
+        class = "IntervalTier" 
+        name = "YIF|a|nt" 
+        xmin = 0 
+        xmax = 172.045 
+        intervals: size = 19 
+        intervals [1]:
+            xmin = 0 
+            xmax = 6.226631228930135 
+            text = "" 
+        intervals [2]:
+            xmin = 6.226631228930135 
+            xmax = 8.57 
+            text = "[AAV:] qwen: ""go away"" or қвен /вас./ березняк (Б 80)? inflection is missing anyway " 
+        intervals [3]:
+            xmin = 8.57 
+            xmax = 42.16333425381943 
+            text = "" 
+        intervals [4]:
+            xmin = 42.16333425381943 
+            xmax = 44.56 
+            text = "[AAV:] elʼǯʼä: cf. ильҗя /об. Ч/ ""дедушка; Бог; медведь"" (Б 29); cf. KFN_1967_Language_flk.014" 
+        intervals [5]:
+            xmin = 44.56 
+            xmax = 50.29 
+            text = "" 
+        intervals [6]:
+            xmin = 50.29 
+            xmax = 56.81 
+            text = "[AAV:] (ogugu it pabo)?" 
+        intervals [7]:
+            xmin = 56.81 
+            xmax = 66.39 
+            text = "" 
+        intervals [8]:
+            xmin = 66.39 
+            xmax = 71.58 
+            text = "[AAV:] ""three meters away"" or ""three meters high (long)""?" 
+        intervals [9]:
+            xmin = 71.58 
+            xmax = 76.135 
+            text = "" 
+        intervals [10]:
+            xmin = 76.135 
+            xmax = 79.789 
+            text = "[AAV:] ""taɨ"" or ""tal"" or ""taɣ""" 
+        intervals [11]:
+            xmin = 79.789 
+            xmax = 137.606 
+            text = "" 
+        intervals [12]:
+            xmin = 137.606 
+            xmax = 141.741 
+            text = "[AAV:] pušwaj? cf. pūgu ""переправиться""" 
+        intervals [13]:
+            xmin = 141.741 
+            xmax = 141.8591926342659 
+            text = "" 
+        intervals [14]:
+            xmin = 141.8591926342659 
+            xmax = 145.31250631369397 
+            text = "[AAV:] kaj > naj?" 
+        intervals [15]:
+            xmin = 145.31250631369397 
+            xmax = 159.455 
+            text = "" 
+        intervals [16]:
+            xmin = 159.455 
+            xmax = 162.49 
+            text = "[AAV:] konǯešxaj(p) ?" 
+        intervals [17]:
+            xmin = 162.49 
+            xmax = 165.215 
+            text = "" 
+        intervals [18]:
+            xmin = 165.215 
+            xmax = 171.37902462752356 
+            text = "[AAV:] Second part unclear." 
+        intervals [19]:
+            xmin = 171.37902462752356 
+            xmax = 172.045 
+            text = "" 
+    item [7]:
+        class = "IntervalTier" 
+        name = "Phones" 
+        xmin = 0 
+        xmax = 172.045 
+        intervals: size = 1 
+        intervals [1]:
+            xmin = 0 
+            xmax = 172.045 
+            text = "" 
